@@ -1,0 +1,742 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb">
+  <title>Party Details Form</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Inter, "Segoe UI", Arial, sans-serif;
+      color: #172033;
+      background: #f5f7fb;
+      font-synthesis: none;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      min-width: 320px;
+      min-height: 100vh;
+      margin: 0;
+      padding: 48px 20px;
+      background:
+        radial-gradient(ellipse at 12% 0%, #e8efff 0, transparent 38%),
+        #f5f7fb;
+    }
+
+    main {
+      width: min(100%, 760px);
+      margin: 0 auto;
+      padding: 36px;
+      border: 1px solid #e6eaf2;
+      border-radius: 20px;
+      background: #fff;
+      box-shadow: 0 16px 48px rgb(23 32 51 / 8%);
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: #5269c9;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(25px, 5vw, 32px);
+      letter-spacing: -.03em;
+    }
+
+    .intro {
+      margin: 10px 0 28px;
+      color: #667085;
+      line-height: 1.55;
+    }
+
+    .search-wrap { position: relative; }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      color: #344054;
+      font-size: 13px;
+      font-weight: 650;
+    }
+
+    input {
+      width: 100%;
+      min-height: 46px;
+      border: 1px solid #d6dce8;
+      border-radius: 10px;
+      padding: 11px 13px;
+      color: #172033;
+      background: #fff;
+      font: inherit;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+    }
+
+    input:focus {
+      border-color: #6679d8;
+      box-shadow: 0 0 0 3px rgb(102 121 216 / 14%);
+    }
+
+    input[readonly] {
+      color: #475467;
+      background: #f8f9fc;
+    }
+
+    .search-input { padding-right: 64px; }
+
+    .search-icon {
+      position: absolute;
+      top: 38px;
+      right: 34px;
+      color: #7a8497;
+      pointer-events: none;
+    }
+
+    .dropdown-icon {
+      position: absolute;
+      top: 38px;
+      right: 14px;
+      color: #7a8497;
+      pointer-events: none;
+    }
+
+    .results {
+      position: absolute;
+      z-index: 2;
+      top: calc(100% + 6px);
+      right: 0;
+      left: 0;
+      display: none;
+      max-height: 250px;
+      overflow: auto;
+      padding: 5px;
+      border: 1px solid #e1e5ed;
+      border-radius: 10px;
+      background: #fff;
+      box-shadow: 0 12px 28px rgb(23 32 51 / 12%);
+    }
+
+    .results.open { display: block; }
+
+    .result {
+      display: block;
+      width: 100%;
+      border: 0;
+      border-radius: 7px;
+      padding: 10px 11px;
+      color: #172033;
+      background: transparent;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .result:hover, .result:focus-visible { background: #f1f4ff; }
+    .result strong { display: block; font-size: 14px; }
+    .result span { display: block; margin-top: 3px; color: #667085; font-size: 12px; }
+
+    .section-help {
+      margin: -5px 0 16px;
+      color: #667085;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .section-title {
+      margin: 25px 0 14px;
+      color: #344054;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .fields {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .field.full { grid-column: 1 / -1; }
+
+    .product-row {
+      margin-top: 14px;
+      border: 1px solid #e6eaf2;
+      border-radius: 12px;
+      padding: 18px;
+      background: #fbfcfe;
+    }
+
+    .product-row-heading {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .product-row-heading h3 {
+      margin: 0;
+      color: #344054;
+      font-size: 14px;
+    }
+
+    .remove-product {
+      border: 0;
+      padding: 5px 2px;
+      color: #b42318;
+      background: transparent;
+      font: inherit;
+      font-size: 12px;
+      font-weight: 650;
+      cursor: pointer;
+    }
+
+    .product-search-wrap { margin-bottom: 16px; }
+    .product-results { top: calc(100% + 4px); }
+
+    .product-fields {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 13px;
+    }
+
+    .product-field.full { grid-column: 1 / -1; }
+
+    .add-product {
+      min-height: 42px;
+      margin-top: 14px;
+      border: 1px solid #d6dce8;
+      border-radius: 9px;
+      padding: 0 14px;
+      color: #344054;
+      background: #fff;
+      font: inherit;
+      font-size: 13px;
+      font-weight: 650;
+      cursor: pointer;
+    }
+
+    .add-product:hover:not(:disabled) { background: #f8f9fc; }
+    .add-product:disabled { color: #98a2b3; cursor: not-allowed; }
+
+    .actions {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 26px;
+      padding-top: 20px;
+      border-top: 1px solid #edf0f5;
+    }
+
+    .submit {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      border: 0;
+      border-radius: 9px;
+      padding: 0 18px;
+      color: #fff;
+      background: #4f62c6;
+      font-size: 13px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .submit:hover:not(:disabled) { background: #4052b4; }
+    .submit:disabled { background: #b7bfdc; cursor: not-allowed; }
+
+    .status {
+      min-height: 20px;
+      margin: 13px 0 0;
+      color: #667085;
+      font-size: 12px;
+      line-height: 1.5;
+    }
+
+    .status.error { color: #b42318; }
+    .status.success { color: #067647; }
+
+    @media (max-width: 560px) {
+      body { padding: 20px 12px; }
+      main { padding: 24px 18px; border-radius: 15px; }
+      .fields { grid-template-columns: 1fr; gap: 13px; }
+      .field.full { grid-column: auto; }
+      .product-fields { grid-template-columns: 1fr; gap: 12px; }
+      .product-field.full { grid-column: auto; }
+      .product-row { padding: 15px; }
+      .actions { align-items: stretch; flex-direction: column; }
+      .submit { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Party directory</p>
+    <h1>Party Details</h1>
+    <p class="intro">Search by party code or party name, select the correct party, then submit.</p>
+
+    <form id="partyForm">
+      <div class="search-wrap">
+        <label for="partySearch">Search party</label>
+        <input
+          id="partySearch"
+          class="search-input"
+          type="search"
+          placeholder="Select a party or search by code/name"
+          autocomplete="off"
+          aria-autocomplete="list"
+          aria-haspopup="listbox"
+          aria-controls="searchResults"
+          aria-expanded="false"
+        >
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <span class="dropdown-icon" aria-hidden="true">▾</span>
+        <div id="searchResults" class="results" role="listbox"></div>
+      </div>
+
+      <p class="section-title">Party information</p>
+      <div class="fields">
+        <div class="field">
+          <label for="partyCode">Party Code</label>
+          <input id="partyCode" name="party code" readonly>
+        </div>
+        <div class="field">
+          <label for="partyName">Party Name</label>
+          <input id="partyName" name="party name" readonly>
+        </div>
+        <div class="field full">
+          <label for="partyAdd1">Party Add1</label>
+          <input id="partyAdd1" name="party add1" readonly>
+        </div>
+        <div class="field full">
+          <label for="partyAdd2">Party Add 2</label>
+          <input id="partyAdd2" name="party add 2" readonly>
+        </div>
+        <div class="field">
+          <label for="city">City</label>
+          <input id="city" name="city" readonly>
+        </div>
+        <div class="field">
+          <label for="state">State</label>
+          <input id="state" name="state" readonly>
+        </div>
+        <div class="field">
+          <label for="pin">Pin</label>
+          <input id="pin" name="pin" readonly>
+        </div>
+        <div class="field">
+          <label for="state1">State 1</label>
+          <input id="state1" name="state 1" readonly>
+        </div>
+        <div class="field">
+          <label for="status">Status</label>
+          <input id="status" name="status" readonly>
+        </div>
+        <div class="field">
+          <label for="mdtd">MD/TD</label>
+          <input id="mdtd" name="md/td" readonly>
+        </div>
+      </div>
+
+      <section aria-labelledby="productsTitle">
+        <h2 id="productsTitle" class="section-title">Products</h2>
+        <p class="section-help">Open the dropdown to browse products, or search by part number or product name. The price follows the selected party's MD/TD type.</p>
+        <div id="productRows"></div>
+        <button id="addProductButton" class="add-product" type="button" disabled>Add another product</button>
+      </section>
+
+      <div class="actions">
+        <button id="submitButton" class="submit" type="submit" disabled>Submit</button>
+      </div>
+      <p id="statusMessage" class="status" role="status" aria-live="polite"></p>
+    </form>
+  </main>
+
+  <script>
+    const fields = [
+      ["party code", "partyCode"],
+      ["party name", "partyName"],
+      ["party add1", "partyAdd1"],
+      ["party add 2", "partyAdd2"],
+      ["city", "city"],
+      ["state", "state"],
+      ["pin", "pin"],
+      ["state 1", "state1"],
+      ["status", "status"],
+      ["md/td", "mdtd"]
+    ];
+
+    const searchInput = document.getElementById("partySearch");
+    const results = document.getElementById("searchResults");
+    const productRows = document.getElementById("productRows");
+    const addProductButton = document.getElementById("addProductButton");
+    const submitButton = document.getElementById("submitButton");
+    const statusMessage = document.getElementById("statusMessage");
+    const productFields = [
+      ["part number", "partNumber"],
+      ["product code", "productCode"],
+      ["product name", "productName"],
+      ["mrp", "productMrp"],
+      ["price", "productPrice"]
+    ];
+    let records = [];
+    let selectedRecord = null;
+    let nextProductRowId = 0;
+
+    function setStatus(message, kind) {
+      statusMessage.textContent = message;
+      statusMessage.className = `status${kind ? ` ${kind}` : ""}`;
+    }
+
+    function clearSelection() {
+      selectedRecord = null;
+      addProductButton.disabled = true;
+      clearProductRows();
+      updateSubmitState();
+      fields.forEach(([, id]) => { document.getElementById(id).value = ""; });
+    }
+
+    function closeResults() {
+      results.classList.remove("open");
+      searchInput.setAttribute("aria-expanded", "false");
+    }
+
+    function selectRecord(record) {
+      const previousPartyType = selectedRecord && selectedRecord["md/td"];
+      selectedRecord = record;
+      fields.forEach(([header, id]) => {
+        document.getElementById(id).value = record[header] || "";
+      });
+      searchInput.value = `${record["party code"]} — ${record["party name"]}`;
+      addProductButton.disabled = false;
+      if (!productRows.children.length || previousPartyType !== record["md/td"]) {
+        clearProductRows();
+        addProductRow();
+      }
+      updateSubmitState();
+      closeResults();
+      setStatus(`Party details filled (${String(record["md/td"]).toUpperCase()} pricing). Add products to continue.`, "success");
+    }
+
+    function updateSubmitState() {
+      const rows = [...productRows.querySelectorAll(".product-row")];
+      submitButton.disabled = !selectedRecord || !rows.length || rows.some(row =>
+        !row._selectedProduct ||
+        !Number.isFinite(Number(row._quantityInput.value)) ||
+        Number(row._quantityInput.value) <= 0
+      );
+    }
+
+    function clearProductRows() {
+      productRows.querySelectorAll(".product-row").forEach(row => {
+        window.clearTimeout(row._searchTimer);
+        if (row._searchController) row._searchController.abort();
+      });
+      productRows.replaceChildren();
+      updateSubmitState();
+    }
+
+    function makeInput(id, name, readonly) {
+      const input = document.createElement("input");
+      input.id = id;
+      input.name = name;
+      input.readOnly = Boolean(readonly);
+      if (readonly) input.setAttribute("aria-readonly", "true");
+      return input;
+    }
+
+    function addProductRow() {
+      if (!selectedRecord || productRows.children.length >= 50) return;
+
+      const rowId = ++nextProductRowId;
+      const row = document.createElement("section");
+      row.className = "product-row";
+      row.setAttribute("aria-label", `Product ${rowId}`);
+
+      const heading = document.createElement("div");
+      heading.className = "product-row-heading";
+      const title = document.createElement("h3");
+      const removeButton = document.createElement("button");
+      removeButton.type = "button";
+      removeButton.className = "remove-product";
+      removeButton.textContent = "Remove";
+      removeButton.addEventListener("click", () => {
+        if (row._searchController) row._searchController.abort();
+        row.remove();
+        refreshProductRows();
+        updateSubmitState();
+      });
+      heading.append(title, removeButton);
+
+      const searchWrap = document.createElement("div");
+      searchWrap.className = "search-wrap product-search-wrap";
+      const searchLabel = document.createElement("label");
+      searchLabel.htmlFor = `productSearch${rowId}`;
+      searchLabel.textContent = "Search product";
+      const search = document.createElement("input");
+      search.id = `productSearch${rowId}`;
+      search.className = "search-input";
+      search.type = "search";
+      search.placeholder = "Enter part number or product name";
+      search.autocomplete = "off";
+      search.disabled = !selectedRecord;
+      search.setAttribute("aria-autocomplete", "list");
+      search.setAttribute("aria-haspopup", "listbox");
+      search.setAttribute("aria-controls", `productResults${rowId}`);
+      search.setAttribute("aria-expanded", "false");
+      const searchIcon = document.createElement("span");
+      searchIcon.className = "search-icon";
+      searchIcon.setAttribute("aria-hidden", "true");
+      searchIcon.textContent = "⌕";
+      const dropdownIcon = document.createElement("span");
+      dropdownIcon.className = "dropdown-icon";
+      dropdownIcon.setAttribute("aria-hidden", "true");
+      dropdownIcon.textContent = "▾";
+      const productResultList = document.createElement("div");
+      productResultList.id = `productResults${rowId}`;
+      productResultList.className = "results product-results";
+      productResultList.setAttribute("role", "listbox");
+      searchWrap.append(searchLabel, search, searchIcon, dropdownIcon, productResultList);
+
+      const detailGrid = document.createElement("div");
+      detailGrid.className = "product-fields";
+      const inputs = {};
+      productFields.forEach(([key, suffix]) => {
+        const field = document.createElement("div");
+        field.className = `product-field${key === "product name" ? " full" : ""}`;
+        const label = document.createElement("label");
+        label.htmlFor = `product${suffix}${rowId}`;
+        label.textContent = key === "price" ? `${String(selectedRecord["md/td"]).toUpperCase()} Price` :
+          ({ "part number": "Part Number", "product code": "Product Code", "product name": "Product Name", mrp: "MRP" }[key]);
+        const input = makeInput(`product${suffix}${rowId}`, `product ${key} ${rowId}`, true);
+        field.append(label, input);
+        detailGrid.append(field);
+        inputs[key] = input;
+      });
+
+      const quantityField = document.createElement("div");
+      quantityField.className = "product-field";
+      const quantityLabel = document.createElement("label");
+      quantityLabel.htmlFor = `quantity${rowId}`;
+      quantityLabel.textContent = "Quantity";
+      const quantityInput = makeInput(`quantity${rowId}`, `quantity ${rowId}`, false);
+      quantityInput.type = "number";
+      quantityInput.min = "0.01";
+      quantityInput.step = "any";
+      quantityInput.placeholder = "Enter quantity";
+      quantityInput.disabled = true;
+      quantityInput.addEventListener("input", updateSubmitState);
+      quantityField.append(quantityLabel, quantityInput);
+      detailGrid.append(quantityField);
+
+      row._productSearch = search;
+      row._productResults = productResultList;
+      row._productInputs = inputs;
+      row._quantityInput = quantityInput;
+      row._selectedProduct = null;
+
+      search.addEventListener("input", () => {
+        row._selectedProduct = null;
+        quantityInput.value = "";
+        quantityInput.disabled = true;
+        Object.values(inputs).forEach(input => { input.value = ""; });
+        if (row._searchController) row._searchController.abort();
+        closeProductResults(row);
+        const query = search.value.trim();
+        row._searchTimer = window.setTimeout(() => searchProducts(row, query), query ? 180 : 0);
+        updateSubmitState();
+      });
+
+      search.addEventListener("focus", () => {
+        searchProducts(row, row._selectedProduct ? "" : search.value.trim());
+      });
+
+      searchWrap.addEventListener("click", event => event.stopPropagation());
+      row.append(heading, searchWrap, detailGrid);
+      productRows.append(row);
+      refreshProductRows();
+      search.focus();
+    }
+
+    function refreshProductRows() {
+      const rows = [...productRows.querySelectorAll(".product-row")];
+      rows.forEach((row, index) => {
+        row.setAttribute("aria-label", `Product ${index + 1}`);
+        row.querySelector("h3").textContent = `Product ${index + 1}`;
+        row.querySelector(".remove-product").hidden = rows.length === 1;
+      });
+    }
+
+    function closeProductResults(row) {
+      row._productResults.classList.remove("open");
+      row._productSearch.setAttribute("aria-expanded", "false");
+    }
+
+    function selectProduct(row, product) {
+      row._selectedProduct = product;
+      row._productSearch.value = `${product["part number"]} — ${product["product name"]}`;
+      productFields.forEach(([key]) => {
+        row._productInputs[key].value = product[key] === null || product[key] === undefined ? "" : product[key];
+      });
+      row._quantityInput.disabled = false;
+      row._quantityInput.focus();
+      closeProductResults(row);
+      updateSubmitState();
+      setStatus("Product details filled. Add another product or submit.");
+    }
+
+    async function searchProducts(row, query) {
+      if (!selectedRecord || !row.isConnected) return;
+      if (row._searchController) row._searchController.abort();
+      const controller = new AbortController();
+      row._searchController = controller;
+      const url = new URLSearchParams({
+        partyCode: selectedRecord["party code"],
+        q: query
+      });
+
+      try {
+        const response = await fetch(`/api/products?${url.toString()}`, { signal: controller.signal });
+        const payload = await response.json();
+        if (!response.ok) throw new Error(payload.error || "Could not load products.");
+        if (controller.signal.aborted || row._productSearch.value.trim() !== query) return;
+
+        row._productResults.replaceChildren();
+        if (!payload.length) {
+          const empty = document.createElement("div");
+          empty.className = "result";
+          empty.textContent = "No matching product found.";
+          row._productResults.append(empty);
+        } else {
+          payload.forEach(product => {
+            const option = document.createElement("button");
+            option.type = "button";
+            option.className = "result";
+            option.setAttribute("role", "option");
+            const name = document.createElement("strong");
+            name.textContent = product["product name"];
+            const details = document.createElement("span");
+            details.textContent = `${product["part number"]} · ${product["product code"]}`;
+            option.append(name, details);
+            option.addEventListener("click", () => selectProduct(row, product));
+            row._productResults.append(option);
+          });
+        }
+
+        row._productResults.classList.add("open");
+        row._productSearch.setAttribute("aria-expanded", "true");
+      } catch (error) {
+        if (error instanceof DOMException && error.name === "AbortError") return;
+        setStatus(error instanceof Error ? error.message : "Could not load products.", "error");
+      }
+    }
+
+    function showResults(query) {
+      results.replaceChildren();
+      if (!records.length) {
+        closeResults();
+        return;
+      }
+
+      const normalizedQuery = query.trim().toLocaleLowerCase();
+      const matches = records.filter(record =>
+        !normalizedQuery ||
+        record["party code"].toLocaleLowerCase().includes(normalizedQuery) ||
+        record["party name"].toLocaleLowerCase().includes(normalizedQuery)
+      );
+
+      if (matches.length === 0) {
+        const empty = document.createElement("div");
+        empty.className = "result";
+        empty.textContent = "No matching party found.";
+        results.append(empty);
+      } else {
+        matches.forEach(record => {
+          const option = document.createElement("button");
+          option.type = "button";
+          option.className = "result";
+          option.setAttribute("role", "option");
+          const name = document.createElement("strong");
+          name.textContent = record["party name"];
+          const code = document.createElement("span");
+          code.textContent = record["party code"];
+          option.append(name, code);
+          option.addEventListener("click", () => selectRecord(record));
+          results.append(option);
+        });
+      }
+
+      results.classList.add("open");
+      searchInput.setAttribute("aria-expanded", "true");
+    }
+
+    searchInput.addEventListener("input", () => {
+      clearSelection();
+      showResults(searchInput.value);
+      if (searchInput.value.trim()) setStatus("Select a party from the matching results.");
+      else setStatus("");
+    });
+
+    searchInput.addEventListener("focus", () => showResults(selectedRecord ? "" : searchInput.value));
+    document.addEventListener("click", event => {
+      if (!event.target.closest(".search-wrap")) closeResults();
+      if (!event.target.closest(".product-search-wrap")) {
+        productRows.querySelectorAll(".product-row").forEach(closeProductResults);
+      }
+    });
+
+    addProductButton.addEventListener("click", addProductRow);
+
+    document.getElementById("partyForm").addEventListener("submit", async event => {
+      event.preventDefault();
+      const rows = [...productRows.querySelectorAll(".product-row")];
+      if (!selectedRecord || submitButton.disabled || !rows.length) return;
+
+      submitButton.disabled = true;
+      setStatus("Submitting party and product details…");
+      try {
+        const response = await fetch("/api/submissions", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            "party code": selectedRecord["party code"],
+            products: rows.map(row => ({
+              "part number": row._selectedProduct["part number"],
+              quantity: Number(row._quantityInput.value)
+            }))
+          })
+        });
+        const result = await response.json();
+        if (!response.ok) throw new Error(result.error || "Submission failed.");
+
+        searchInput.value = "";
+        clearSelection();
+        closeResults();
+        setStatus("Submitted successfully. Thank you.", "success");
+      } catch (error) {
+        submitButton.disabled = false;
+        setStatus(error instanceof Error ? error.message : "Submission failed. Please try again.", "error");
+      }
+    });
+
+    fetch("/api/parties")
+      .then(async response => {
+        const result = await response.json();
+        if (!response.ok) throw new Error(result.error || "Could not load party records.");
+        records = result;
+        setStatus(`${records.length} party records ready. Search by code or name.`);
+      })
+      .catch(error => {
+        setStatus(error instanceof Error ? error.message : "Could not connect to the server.", "error");
+      });
+  </script>
+</body>
+</html>

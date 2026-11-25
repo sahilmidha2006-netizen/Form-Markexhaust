@@ -1,0 +1,7 @@
+.env
+.env.*
+parties.json
+products.json
+submissions.json
+*.xls
+*.xlsx

@@ -1,0 +1,4770 @@
+[
+    {
+        "part number":  "SHM0101-100",
+        "product code":  "1500",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS CAR800) Front Left (Oil)",
+        "mrp":  2690,
+        "md price":  1412.788,
+        "td price":  1483.804
+    },
+    {
+        "part number":  "SHM0101-101",
+        "product code":  "1501",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS CAR800) Front Right (Oil)",
+        "mrp":  2690,
+        "md price":  1412.788,
+        "td price":  1483.804
+    },
+    {
+        "part number":  "SHM0101-104",
+        "product code":  "1502",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS CAR800) Front Left (Oil)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SHM0101-105",
+        "product code":  "1503",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS CAR800) Front Right (Oil)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SHM0101-102",
+        "product code":  "1504",
+        "product name":  "Shock Absorber (damper) suitable for (MS CAR800) Front Left (Oil)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SHM0101-103",
+        "product code":  "1505",
+        "product name":  "Shock Absorber (damper) suitable for (MS CAR800) Front Right (Oil)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGT0101-200",
+        "product code":  "1506",
+        "product name":  "Shock Absorber suitable for (MS CAR800) Rear Left/Right (Gas)",
+        "mrp":  780,
+        "md price":  409.656,
+        "td price":  430.248
+    },
+    {
+        "part number":  "SHM0102-100",
+        "product code":  "1508",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Zn Old) Front Left (Oil)",
+        "mrp":  2950,
+        "md price":  1549.34,
+        "td price":  1627.22
+    },
+    {
+        "part number":  "SHM0102-101",
+        "product code":  "1509",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Zn Old) Front Left (Oil)",
+        "mrp":  2950,
+        "md price":  1549.34,
+        "td price":  1627.22
+    },
+    {
+        "part number":  "SHM0102-104",
+        "product code":  "1510",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Zn Old) Front Left (Oil)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SHM0102-105",
+        "product code":  "1512",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Zn Old) Front Right (Oil)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SHM0102-102",
+        "product code":  "1608",
+        "product name":  "Shock Absorber (damper) suitable for (MS Zn Old) Front Left (Oil)",
+        "mrp":  1960,
+        "md price":  1029.392,
+        "td price":  1081.136
+    },
+    {
+        "part number":  "SHM0102-103",
+        "product code":  "1609",
+        "product name":  "Shock Absorber (damper) suitable for (MS Zn Old) Front Right (Oil)",
+        "mrp":  1960,
+        "md price":  1029.392,
+        "td price":  1081.136
+    },
+    {
+        "part number":  "SGT0102-200",
+        "product code":  "1516",
+        "product name":  "Shock Absorber suitable for (MS Zn Old) Rear Left/Right (Gas)",
+        "mrp":  798,
+        "md price":  419.11,
+        "td price":  440.177
+    },
+    {
+        "part number":  "SHM0103-100",
+        "product code":  "1518",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Zn Estlo) Front Left (Oil)",
+        "mrp":  2926,
+        "md price":  1536.735,
+        "td price":  1613.982
+    },
+    {
+        "part number":  "SHM0103-101",
+        "product code":  "1519",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Zn Estlo) Front Right (Oil)",
+        "mrp":  2926,
+        "md price":  1536.735,
+        "td price":  1613.982
+    },
+    {
+        "part number":  "SHM0103-104",
+        "product code":  "1520",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Zn Estlo) Front Left (Oil)",
+        "mrp":  2230,
+        "md price":  1171.196,
+        "td price":  1230.068
+    },
+    {
+        "part number":  "SHM0103-105",
+        "product code":  "1521",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Zn Estlo) Front Right (Oil)",
+        "mrp":  2230,
+        "md price":  1171.196,
+        "td price":  1230.068
+    },
+    {
+        "part number":  "SHM0103-102",
+        "product code":  "1522",
+        "product name":  "Shock Absorber (damper) suitable for (MS Zn Estlo) Front Left (Oil)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SHM0103-103",
+        "product code":  "1523",
+        "product name":  "Shock Absorber (damper) suitable for (MS Zn Estlo) Front Right (Oil)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SGT0103-200",
+        "product code":  "1524",
+        "product name":  "Shock Absorber suitable for (MS Zn Estlo) Rear Left/Right (Gas)",
+        "mrp":  860,
+        "md price":  451.672,
+        "td price":  474.376
+    },
+    {
+        "part number":  "SHM0104-100",
+        "product code":  "1558",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Old) Front Left (Oil)",
+        "mrp":  2375,
+        "md price":  1247.35,
+        "td price":  1310.05
+    },
+    {
+        "part number":  "SHM0104-101",
+        "product code":  "1559",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Old) Front Right (Oil)",
+        "mrp":  2375,
+        "md price":  1247.35,
+        "td price":  1310.05
+    },
+    {
+        "part number":  "SHM0104-104",
+        "product code":  "1560",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Old) Front Left (Oil)",
+        "mrp":  1995,
+        "md price":  1047.774,
+        "td price":  1100.442
+    },
+    {
+        "part number":  "SHM0104-105",
+        "product code":  "1561",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Old) Front Right (Oil)",
+        "mrp":  1995,
+        "md price":  1047.774,
+        "td price":  1100.442
+    },
+    {
+        "part number":  "SHM0104-102",
+        "product code":  "1562",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Old) Front Left (Oil)",
+        "mrp":  1460,
+        "md price":  766.792,
+        "td price":  805.336
+    },
+    {
+        "part number":  "SHM0104-103",
+        "product code":  "1563",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Old) Front Right (Oil)",
+        "mrp":  1460,
+        "md price":  766.792,
+        "td price":  805.336
+    },
+    {
+        "part number":  "SGT0104-200",
+        "product code":  "1557",
+        "product name":  "Shock Absorber suitable for (MS ALT Old) Rear Left/Right (Gas)",
+        "mrp":  685,
+        "md price":  359.762,
+        "td price":  377.846
+    },
+    {
+        "part number":  "SGM0104-100",
+        "product code":  "2874",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Old) Front Left (Gas)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0104-101",
+        "product code":  "2875",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Old) Front Right (Gas)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0104-104",
+        "product code":  "2871",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Old) Front Left (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0104-105",
+        "product code":  "2872",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Old) Front Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0104-102",
+        "product code":  "2870",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Old) Front Left (Gas)",
+        "mrp":  1465,
+        "md price":  769.418,
+        "td price":  808.094
+    },
+    {
+        "part number":  "SGM0104-103",
+        "product code":  "2869",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Old) Front Right (Gas)",
+        "mrp":  1465,
+        "md price":  769.418,
+        "td price":  808.094
+    },
+    {
+        "part number":  "SHM0105-100",
+        "product code":  "1604",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Cd/K10) Front Left (Oil)",
+        "mrp":  2380,
+        "md price":  1249.976,
+        "td price":  1312.808
+    },
+    {
+        "part number":  "SHM0105-101",
+        "product code":  "1605",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT Cd/K10) Front Right (Oil)",
+        "mrp":  2380,
+        "md price":  1249.976,
+        "td price":  1312.808
+    },
+    {
+        "part number":  "SHM0105-104",
+        "product code":  "1624",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Cd/K10) Front Left (Oil)",
+        "mrp":  1825,
+        "md price":  958.49,
+        "td price":  1006.67
+    },
+    {
+        "part number":  "SHM0105-105",
+        "product code":  "1625",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT Cd/K10) Front Right (Oil)",
+        "mrp":  1825,
+        "md price":  958.49,
+        "td price":  1006.67
+    },
+    {
+        "part number":  "SHM0105-102",
+        "product code":  "1606",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Cd/K10) Front Left (Oil)",
+        "mrp":  1460,
+        "md price":  766.792,
+        "td price":  805.336
+    },
+    {
+        "part number":  "SHM0105-103",
+        "product code":  "1607",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT Cd/K10) Front Right (Oil)",
+        "mrp":  1460,
+        "md price":  766.792,
+        "td price":  805.336
+    },
+    {
+        "part number":  "SGT0105-200",
+        "product code":  "1571",
+        "product name":  "Shock Absorber suitable for (MS ALT Cd/K10) Rear Left/Right (Gas)",
+        "mrp":  710,
+        "md price":  372.892,
+        "td price":  391.636
+    },
+    {
+        "part number":  "SGM0113-100",
+        "product code":  "3799",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT K10 ABS) Front Left (Gas)",
+        "mrp":  3000,
+        "md price":  1575.6,
+        "td price":  1654.8
+    },
+    {
+        "part number":  "SGM0113-101",
+        "product code":  "3800",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT K10 ABS) Front Right (Gas)",
+        "mrp":  3000,
+        "md price":  1575.6,
+        "td price":  1654.8
+    },
+    {
+        "part number":  "SGM0113-104",
+        "product code":  "3801",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT K10 ABS) Front Left (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0113-105",
+        "product code":  "3802",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT K10 ABS) Front Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0113-102",
+        "product code":  "3803",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT K10 ABS) Front Left (Gas)",
+        "mrp":  1765,
+        "md price":  926.978,
+        "td price":  973.574
+    },
+    {
+        "part number":  "SGM0113-103",
+        "product code":  "3804",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT K10 ABS) Front Right (Gas)",
+        "mrp":  1765,
+        "md price":  926.978,
+        "td price":  973.574
+    },
+    {
+        "part number":  "SGT0113-200",
+        "product code":  "3805",
+        "product name":  "Shock Absorber suitable for (MS ALT K10 ABS) Rear Left/Right (Gas)",
+        "mrp":  820,
+        "md price":  430.664,
+        "td price":  452.312
+    },
+    {
+        "part number":  "SHM0106-100",
+        "product code":  "1526",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN R Old) Front Left (Oil)",
+        "mrp":  2860,
+        "md price":  1502.072,
+        "td price":  1577.576
+    },
+    {
+        "part number":  "SHM0106-101",
+        "product code":  "1527",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN R Old) Front Right (Oil)",
+        "mrp":  2860,
+        "md price":  1502.072,
+        "td price":  1577.576
+    },
+    {
+        "part number":  "SHM0106-104",
+        "product code":  "1528",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS WGN R Old) Front Left (Oil)",
+        "mrp":  2450,
+        "md price":  1286.74,
+        "td price":  1351.42
+    },
+    {
+        "part number":  "SHM0106-105",
+        "product code":  "1529",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS WGN R Old) Front Right (Oil)",
+        "mrp":  2450,
+        "md price":  1286.74,
+        "td price":  1351.42
+    },
+    {
+        "part number":  "SHM0106-102",
+        "product code":  "1617",
+        "product name":  "Shock Absorber (damper) suitable for (MS WGN R Old) Front Left (Oil)",
+        "mrp":  1889,
+        "md price":  992.103,
+        "td price":  1041.972
+    },
+    {
+        "part number":  "SHM0106-103",
+        "product code":  "1618",
+        "product name":  "Shock Absorber (damper) suitable for (MS WGN R Old) Front Right (Oil)",
+        "mrp":  1889,
+        "md price":  992.103,
+        "td price":  1041.972
+    },
+    {
+        "part number":  "SGT0106-200",
+        "product code":  "1530",
+        "product name":  "Shock Absorber suitable for (MS WGN R Old) Rear Left/Right (Gas)",
+        "mrp":  730,
+        "md price":  383.396,
+        "td price":  402.668
+    },
+    {
+        "part number":  "SGM0107-100",
+        "product code":  "1592",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN R Type IV) Front Left (Gas)",
+        "mrp":  2740,
+        "md price":  1439.048,
+        "td price":  1511.384
+    },
+    {
+        "part number":  "SGM0107-101",
+        "product code":  "1593",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN R Type IV) Front Right (Gas)",
+        "mrp":  2740,
+        "md price":  1439.048,
+        "td price":  1511.384
+    },
+    {
+        "part number":  "SGM0107-102",
+        "product code":  "1594",
+        "product name":  "Shock Absorber (damper) suitable for (MS WGN R Type IV) Front Left (Gas)",
+        "mrp":  1620,
+        "md price":  850.824,
+        "td price":  893.592
+    },
+    {
+        "part number":  "SGM0107-103",
+        "product code":  "1595",
+        "product name":  "Shock Absorber (damper) suitable for (MS WGN R Type IV) Front Right (Gas)",
+        "mrp":  1620,
+        "md price":  850.824,
+        "td price":  893.592
+    },
+    {
+        "part number":  "SGT0107-200",
+        "product code":  "1596",
+        "product name":  "Shock Absorber suitable for (MS WGN R Type IV / Eeco) Rear Left/Right (Gas)",
+        "mrp":  800,
+        "md price":  420.16,
+        "td price":  441.28
+    },
+    {
+        "part number":  "SGM0139-100",
+        "product code":  "4550",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R NEW(P) (K10)) Front Left (Gas)",
+        "mrp":  3370,
+        "md price":  1769.924,
+        "td price":  1858.892
+    },
+    {
+        "part number":  "SGM0139-101",
+        "product code":  "4551",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R NEW(P) (K10)) Front Right(Gas)",
+        "mrp":  3370,
+        "md price":  1769.924,
+        "td price":  1858.892
+    },
+    {
+        "part number":  "SGM0139-102",
+        "product code":  "4609",
+        "product name":  "Shock Absorber (Damper) suitable for (MS WGN-R NEW(P) (K10)) Front Left (Gas)",
+        "mrp":  1750,
+        "md price":  919.1,
+        "td price":  965.3
+    },
+    {
+        "part number":  "SGM0139-103",
+        "product code":  "4608",
+        "product name":  "Shock Absorber (Damper) suitable for (MS WGN-R NEW(P) (K10)) Front Right(Gas)",
+        "mrp":  1750,
+        "md price":  919.1,
+        "td price":  965.3
+    },
+    {
+        "part number":  "SGT0139-200",
+        "product code":  "4473",
+        "product name":  "Shock Absorber suitable for (MS WGN R New) Rear Left/Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0144-100",
+        "product code":  "4927",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R 1 Ltr K-10(CNG)) Front Left (Gas)",
+        "mrp":  3338,
+        "md price":  1753.118,
+        "td price":  1841.241
+    },
+    {
+        "part number":  "SGM0144-101",
+        "product code":  "4926",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R 1 Ltr K-10(CNG)) Front Right(Gas)",
+        "mrp":  3338,
+        "md price":  1753.118,
+        "td price":  1841.241
+    },
+    {
+        "part number":  "SGM0154-100",
+        "product code":  "4996",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R 1.2 Ltr K-12(P)) Front Left (Gas)",
+        "mrp":  3373,
+        "md price":  1771.5,
+        "td price":  1860.547
+    },
+    {
+        "part number":  "SGM0154-101",
+        "product code":  "4995",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS WGN-R 1.2 Ltr K-12(P)) Front Right(Gas)",
+        "mrp":  3373,
+        "md price":  1771.5,
+        "td price":  1860.547
+    },
+    {
+        "part number":  "SGM0137-100",
+        "product code":  "4548",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS IGNS (D) ) Front Left (Gas)",
+        "mrp":  3400,
+        "md price":  1785.68,
+        "td price":  1875.44
+    },
+    {
+        "part number":  "SGM0137-101",
+        "product code":  "4549",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (MS IGNS (D) ) Front Right(Gas)",
+        "mrp":  3400,
+        "md price":  1785.68,
+        "td price":  1875.44
+    },
+    {
+        "part number":  "SGM0142-100",
+        "product code":  "4997",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (MS IGNS K-12 (P) ) Front Left(Gas)",
+        "mrp":  3236,
+        "md price":  1699.547,
+        "td price":  1784.978
+    },
+    {
+        "part number":  "SGM0142-101",
+        "product code":  "4998",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (MS IGNS K-12 (P) ) Front Right(Gas)",
+        "mrp":  3236,
+        "md price":  1699.547,
+        "td price":  1784.978
+    },
+    {
+        "part number":  "SGM0137-102",
+        "product code":  "4607",
+        "product name":  "Shock Absorber (Damper) suitable for (MS IGNS (P/D) ) Front Left (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0137-103",
+        "product code":  "4605",
+        "product name":  "Shock Absorber (Damper) suitable for  (MS IGNS (P/D) ) Front Right(Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGT0137-200",
+        "product code":  "4474",
+        "product name":  "Shock Absorber suitable for (MS IGNS) Rear Left/Right (Gas)",
+        "mrp":  1995,
+        "md price":  1047.774,
+        "td price":  1100.442
+    },
+    {
+        "part number":  "SGM0138-100",
+        "product code":  "4547",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS S-PRSO(P) ) Front Left (Gas)",
+        "mrp":  3150,
+        "md price":  1654.38,
+        "td price":  1737.54
+    },
+    {
+        "part number":  "SGM0138-101",
+        "product code":  "4544",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (MS S-PRSO(P) ) Front Right(Gas)",
+        "mrp":  3150,
+        "md price":  1654.38,
+        "td price":  1737.54
+    },
+    {
+        "part number":  "SGM0148-100",
+        "product code":  "4707",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS  S-PRSO(CNG)) Front Left (Gas)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SGM0148-101",
+        "product code":  "4706",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (MS S-PRSO (CNG)) Front Right(Gas)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SGM0138-102",
+        "product code":  "4614",
+        "product name":  "Shock Absorber (Damper) suitable for (MS S-PRSO) Front Left (Gas)",
+        "mrp":  1775,
+        "md price":  932.23,
+        "td price":  979.09
+    },
+    {
+        "part number":  "SGM0138-103",
+        "product code":  "4615",
+        "product name":  "Shock Absorber (Damper) suitable for  (MS S-PRSO) Front Right(Gas)",
+        "mrp":  1775,
+        "md price":  932.23,
+        "td price":  979.09
+    },
+    {
+        "part number":  "SGT0138-200",
+        "product code":  "4564",
+        "product name":  "Shock Absorber suitable for (MS S-PRSO) Rear Left/Right (Gas)",
+        "mrp":  1640,
+        "md price":  861.328,
+        "td price":  904.624
+    },
+    {
+        "part number":  "SGM0108-100",
+        "product code":  "1564",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT 800) Front Left (Gas)",
+        "mrp":  2380,
+        "md price":  1249.976,
+        "td price":  1312.808
+    },
+    {
+        "part number":  "SGM0108-101",
+        "product code":  "1565",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT 800) Front Right (Gas)",
+        "mrp":  2380,
+        "md price":  1249.976,
+        "td price":  1312.808
+    },
+    {
+        "part number":  "SGM0108-104",
+        "product code":  "1566",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT 800) Front Left (Gas)",
+        "mrp":  2040,
+        "md price":  1071.408,
+        "td price":  1125.264
+    },
+    {
+        "part number":  "SGM0108-105",
+        "product code":  "1567",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT 800) Front Right (Gas)",
+        "mrp":  2040,
+        "md price":  1071.408,
+        "td price":  1125.264
+    },
+    {
+        "part number":  "SGM0108-102",
+        "product code":  "1568",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT 800) Front Left (Gas)",
+        "mrp":  1500,
+        "md price":  787.8,
+        "td price":  827.4
+    },
+    {
+        "part number":  "SGM0108-103",
+        "product code":  "1569",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT 800) Front Right (Gas)",
+        "mrp":  1500,
+        "md price":  787.8,
+        "td price":  827.4
+    },
+    {
+        "part number":  "SGT0108-200",
+        "product code":  "1570",
+        "product name":  "Shock Absorber suitable for (MS ALT 800) Rear Left/Right (Gas)",
+        "mrp":  700,
+        "md price":  367.64,
+        "td price":  386.12
+    },
+    {
+        "part number":  "SGM0109-100",
+        "product code":  "3788",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT 800 ABS) Front Left (Gas)",
+        "mrp":  2430,
+        "md price":  1276.236,
+        "td price":  1340.388
+    },
+    {
+        "part number":  "SGM0109-101",
+        "product code":  "3789",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS ALT 800 ABS) Front Right (Gas)",
+        "mrp":  2430,
+        "md price":  1276.236,
+        "td price":  1340.388
+    },
+    {
+        "part number":  "SGM0109-104",
+        "product code":  "3794",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT 800 ABS) Front Left (Gas)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SGM0109-105",
+        "product code":  "3796",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS ALT 800 ABS) Front Right (Gas)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SGM0109-102",
+        "product code":  "3797",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT 800 ABS) Front Left (Gas)",
+        "mrp":  1490,
+        "md price":  782.548,
+        "td price":  821.884
+    },
+    {
+        "part number":  "SGM0109-103",
+        "product code":  "3798",
+        "product name":  "Shock Absorber (damper) suitable for (MS ALT 800 ABS) Front Right (Gas)",
+        "mrp":  1490,
+        "md price":  782.548,
+        "td price":  821.884
+    },
+    {
+        "part number":  "SGM0110-102",
+        "product code":  "2930",
+        "product name":  "Shock Absorber (damper) suitable for (MS Astar) Front Left (Gas)",
+        "mrp":  2250,
+        "md price":  1181.7,
+        "td price":  1241.1
+    },
+    {
+        "part number":  "SGM0110-103",
+        "product code":  "2929",
+        "product name":  "Shock Absorber (damper) suitable for (MS Astar) Front Right (Gas)",
+        "mrp":  2250,
+        "md price":  1181.7,
+        "td price":  1241.1
+    },
+    {
+        "part number":  "SGT0110-200",
+        "product code":  "3148",
+        "product name":  "Shock Absorber suitable for (MS Astar) Rear Left/Right (Gas)",
+        "mrp":  1220,
+        "md price":  640.744,
+        "td price":  672.952
+    },
+    {
+        "part number":  "SGM0111-100",
+        "product code":  "3809",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Clerio- Petrol/CNG) Front Left (Gas)",
+        "mrp":  4020,
+        "md price":  2111.304,
+        "td price":  2217.432
+    },
+    {
+        "part number":  "SGM0111-101",
+        "product code":  "3808",
+        "product name":  "Shock Absorber  (complete assembly) suitable for (MS Clerio - Petrol/CNG) Front Right (Gas)",
+        "mrp":  4020,
+        "md price":  2111.304,
+        "td price":  2217.432
+    },
+    {
+        "part number":  "SGM0111-102",
+        "product code":  "2807",
+        "product name":  "Shock Absorber (damper) suitable for (MS Clerio- Petrol/CNG) Front Left (Gas)",
+        "mrp":  1750,
+        "md price":  919.1,
+        "td price":  965.3
+    },
+    {
+        "part number":  "SGM0111-103",
+        "product code":  "2806",
+        "product name":  "Shock Absorber (damper) suitable for (MS Clerio - Petrol/CNG) Front Right (Gas)",
+        "mrp":  1750,
+        "md price":  919.1,
+        "td price":  965.3
+    },
+    {
+        "part number":  "SGM0112-102",
+        "product code":  "3125",
+        "product name":  "Shock Absorber (damper) suitable for (MS Clerio-Diesel) Front Left (Gas)",
+        "mrp":  1900,
+        "md price":  997.88,
+        "td price":  1048.04
+    },
+    {
+        "part number":  "SGM0112-103",
+        "product code":  "3126",
+        "product name":  "Shock Absorber (damper) suitable for (MS Clerio-Diesel) Front Right (Gas)",
+        "mrp":  1900,
+        "md price":  997.88,
+        "td price":  1048.04
+    },
+    {
+        "part number":  "SGT0111-200",
+        "product code":  "2172",
+        "product name":  "Shock Absorber suitable for (MS Clerio) Rear Left/Right (Gas)",
+        "mrp":  2065,
+        "md price":  1084.538,
+        "td price":  1139.054
+    },
+    {
+        "part number":  "SHM0114-100",
+        "product code":  "2541",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type-1) Front Left (Oil)",
+        "mrp":  3500,
+        "md price":  1838.2,
+        "td price":  1930.6
+    },
+    {
+        "part number":  "SHM0114-101",
+        "product code":  "2542",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type-1) Front Right (Oil)",
+        "mrp":  3500,
+        "md price":  1838.2,
+        "td price":  1930.6
+    },
+    {
+        "part number":  "SHM0114-102",
+        "product code":  "1654",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco) Front Left (Oil)",
+        "mrp":  2260,
+        "md price":  1186.952,
+        "td price":  1246.616
+    },
+    {
+        "part number":  "SHM0114-103",
+        "product code":  "1655",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco) Front Right (Oil)",
+        "mrp":  2260,
+        "md price":  1186.952,
+        "td price":  1246.616
+    },
+    {
+        "part number":  "SHM0117-100",
+        "product code":  "2282",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type 2) Front Left (Oil)",
+        "mrp":  3200,
+        "md price":  1680.64,
+        "td price":  1765.12
+    },
+    {
+        "part number":  "SHM0117-101",
+        "product code":  "2283",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type 2) Front Right (Oil)",
+        "mrp":  3200,
+        "md price":  1680.64,
+        "td price":  1765.12
+    },
+    {
+        "part number":  "SHM0117-102",
+        "product code":  "1743",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco Type 2) Front Left (Oil)",
+        "mrp":  2040,
+        "md price":  1071.408,
+        "td price":  1125.264
+    },
+    {
+        "part number":  "SHM0117-103",
+        "product code":  "1744",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco Type 2) Front Right (Oil)",
+        "mrp":  2040,
+        "md price":  1071.408,
+        "td price":  1125.264
+    },
+    {
+        "part number":  "SGT0117-200",
+        "product code":  "4452",
+        "product name":  "Shock Absorber suitable for (MS Eco type 1/type 2) Rear Left/Right (Gas)",
+        "mrp":  970,
+        "md price":  509.444,
+        "td price":  535.052
+    },
+    {
+        "part number":  "SHM0123-100",
+        "product code":  "4479",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type 3 ABS) Front Left (Oil)",
+        "mrp":  3089,
+        "md price":  1622.343,
+        "td price":  1703.892
+    },
+    {
+        "part number":  "SHM0123-101",
+        "product code":  "4480",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Eco Type 3 ABS) Front Right (Oil)",
+        "mrp":  3089,
+        "md price":  1622.343,
+        "td price":  1703.892
+    },
+    {
+        "part number":  "SHM0123-102",
+        "product code":  "4477",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco Type 3 ABS) Front Left (Oil)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SHM0123-103",
+        "product code":  "4478",
+        "product name":  "Shock Absorber (damper) suitable for (MS Eco Type 3 ABS) Front Right (Oil)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SGT0123-200",
+        "product code":  "4507",
+        "product name":  "Shock Absorber suitable for (MS Eco type 3 ABS) Rear Left/Right (Gas)",
+        "mrp":  1060,
+        "md price":  556.712,
+        "td price":  584.696
+    },
+    {
+        "part number":  "SGM0115-100",
+        "product code":  "2688",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega P)) Front Left (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM0115-101",
+        "product code":  "2689",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega P)) Front Right (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM0116-100",
+        "product code":  "2118",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega D)) Front Left (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM0116-101",
+        "product code":  "2119",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega D)) Front Right (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM0116-102",
+        "product code":  "2697",
+        "product name":  "Shock Absorber (damper) suitable for (MS Ertega ( D) Front Left (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGM0116-103",
+        "product code":  "2698",
+        "product name":  "Shock Absorber (damper) suitable for (MS Ertega (D)) Front Right (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGM0115-104",
+        "product code":  "2691",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Ertega ( D)) Front Left (Gas)",
+        "mrp":  2730,
+        "md price":  1433.796,
+        "td price":  1505.868
+    },
+    {
+        "part number":  "SGM0115-105",
+        "product code":  "2692",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Ertega (D) Front Right (Gas)",
+        "mrp":  2730,
+        "md price":  1433.796,
+        "td price":  1505.868
+    },
+    {
+        "part number":  "SGT0115-200",
+        "product code":  "2120",
+        "product name":  "Shock Absorber suitable for (MS Ertega) Rear Left/Right (Gas)",
+        "mrp":  2035,
+        "md price":  1068.782,
+        "td price":  1122.506
+    },
+    {
+        "part number":  "SGM0140-100",
+        "product code":  "4529",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega type 2/XLSix (P)) Front Left (Gas)",
+        "mrp":  4330,
+        "md price":  2274.116,
+        "td price":  2388.428
+    },
+    {
+        "part number":  "SGM0140-101",
+        "product code":  "4528",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega type 2/XLSix(P)) Front Right (Gas)",
+        "mrp":  4330,
+        "md price":  2274.116,
+        "td price":  2388.428
+    },
+    {
+        "part number":  "SGM0141-100",
+        "product code":  "5052",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega type 2/XLSix (D)) Front Left (Gas)",
+        "mrp":  4305,
+        "md price":  2260.986,
+        "td price":  2374.638
+    },
+    {
+        "part number":  "SGM0141-101",
+        "product code":  "5053",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ertega type 2/XLSix(D)) Front Right (Gas)",
+        "mrp":  4305,
+        "md price":  2260.986,
+        "td price":  2374.638
+    },
+    {
+        "part number":  "SGM0140-102",
+        "product code":  "4500",
+        "product name":  "Shock Absorber (damper) suitable for (MS Ertega type 2/XLSix ) Front Left (Gas)",
+        "mrp":  2530,
+        "md price":  1328.756,
+        "td price":  1395.548
+    },
+    {
+        "part number":  "SGM0140-103",
+        "product code":  "4501",
+        "product name":  "Shock Absorber (damper) suitable for (MS Ertega type 2/ XLSix) Front Right (Gas)",
+        "mrp":  2530,
+        "md price":  1328.756,
+        "td price":  1395.548
+    },
+    {
+        "part number":  "SGT0140-200",
+        "product code":  "4497",
+        "product name":  "Shock Absorber suitable for (MS Ertega type 2/ XLSix) Rear Left/Right (Gas)",
+        "mrp":  2320,
+        "md price":  1218.464,
+        "td price":  1279.712
+    },
+    {
+        "part number":  "SGM0119-100",
+        "product code":  "2704",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Retz (P)) Front Left (Oil)",
+        "mrp":  3750,
+        "md price":  1969.5,
+        "td price":  2068.5
+    },
+    {
+        "part number":  "SGM0119-101",
+        "product code":  "2695",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Retz (P)) Front Right (Oil)",
+        "mrp":  3750,
+        "md price":  1969.5,
+        "td price":  2068.5
+    },
+    {
+        "part number":  "SGM0120-100",
+        "product code":  "2700",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Retz (D)) Front Left (Oil)",
+        "mrp":  3620,
+        "md price":  1901.224,
+        "td price":  1996.792
+    },
+    {
+        "part number":  "SGM0120-101",
+        "product code":  "2696",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Retz (D)) Front Right (Oil)",
+        "mrp":  3620,
+        "md price":  1901.224,
+        "td price":  1996.792
+    },
+    {
+        "part number":  "SGM0119-102",
+        "product code":  "2357",
+        "product name":  "Shock Absorber (damper) suitable for (MS Retz (P\u0026D) Front Left (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGM0119-103",
+        "product code":  "2358",
+        "product name":  "Shock Absorber (damper) suitable for (MS Retz(P\u0026D) Front Right (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGM0119-104",
+        "product code":  "2701",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Retz (P\u0026D)) Front Left (Oil)",
+        "mrp":  2780,
+        "md price":  1460.056,
+        "td price":  1533.448
+    },
+    {
+        "part number":  "SGM0119-105",
+        "product code":  "2686",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS Retz (P\u0026D)) Front Right (Oil)",
+        "mrp":  2780,
+        "md price":  1460.056,
+        "td price":  1533.448
+    },
+    {
+        "part number":  "SGT0119-200",
+        "product code":  "2687",
+        "product name":  "Shock Absorber suitable for (MS Retz (P/D)) Rear Left/Right (Gas)",
+        "mrp":  1820,
+        "md price":  955.864,
+        "td price":  1003.912
+    },
+    {
+        "part number":  "SGM0121-100",
+        "product code":  "3392",
+        "product name":  "Shock Absorber(complete assembly)  suitable for (MS Balno 2nd Gen.-Petrol) Front Left (Gas)",
+        "mrp":  3950,
+        "md price":  2074.54,
+        "td price":  2178.82
+    },
+    {
+        "part number":  "SGM0121-101",
+        "product code":  "3391",
+        "product name":  "Shock Absorber (complete assembly)  suitable for (MS Balno 2nd Gen. - Petrol) Front Right (Gas)",
+        "mrp":  3950,
+        "md price":  2074.54,
+        "td price":  2178.82
+    },
+    {
+        "part number":  "SGM0122-100",
+        "product code":  "3390",
+        "product name":  "Shock Absorber (complete assembly)  suitable for (MS Balno 2nd Gen.Diesel) Front Left (Gas)",
+        "mrp":  4160,
+        "md price":  2184.832,
+        "td price":  2294.656
+    },
+    {
+        "part number":  "SGM0122-101",
+        "product code":  "3389",
+        "product name":  "Shock Absorber (complete assembly)  suitable for (MS Balno 2nd Gen. Diesel) Front Right (Gas)",
+        "mrp":  4160,
+        "md price":  2184.832,
+        "td price":  2294.656
+    },
+    {
+        "part number":  "SGM0121-102",
+        "product code":  "2805",
+        "product name":  "Shock Absorber (damper) suitable for (MS Balno 2nd Gen.-Petrol) Front Left (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0121-103",
+        "product code":  "2804",
+        "product name":  "Shock Absorber (damper) suitable for (MS Balno 2nd Gen. - Petrol) Front Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0122-102",
+        "product code":  "3127",
+        "product name":  "Shock Absorber (damper) suitable for (MS Balno 2nd Gen.Diesel) Front Left (Gas)",
+        "mrp":  2120,
+        "md price":  1113.424,
+        "td price":  1169.392
+    },
+    {
+        "part number":  "SGM0122-103",
+        "product code":  "3128",
+        "product name":  "Shock Absorber (damper) suitable for (MS Balno 2nd Gen. Diesel) Front Right (Gas)",
+        "mrp":  2120,
+        "md price":  1113.424,
+        "td price":  1169.392
+    },
+    {
+        "part number":  "SGT0121-200",
+        "product code":  "2978",
+        "product name":  "Shock Absorber suitable for (MS Balno 2nd Gen. P\u0026D) Rear Left/Right (Gas)",
+        "mrp":  2620,
+        "md price":  1376.024,
+        "td price":  1445.192
+    },
+    {
+        "part number":  "SHM0124-100",
+        "product code":  "2965",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Omnee type 3) Front Left(Oil)",
+        "mrp":  4100,
+        "md price":  2153.32,
+        "td price":  2261.56
+    },
+    {
+        "part number":  "SHM0124-101",
+        "product code":  "3156",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Omnee type 3) Front Right (Oil)",
+        "mrp":  4100,
+        "md price":  2153.32,
+        "td price":  2261.56
+    },
+    {
+        "part number":  "SHM0124-102",
+        "product code":  "3134",
+        "product name":  "Shock Absorber (damper) suitable for (MS Omnee type 3) Front Left/Right (Oil)",
+        "mrp":  3050,
+        "md price":  1601.86,
+        "td price":  1682.38
+    },
+    {
+        "part number":  "SHT0124-200",
+        "product code":  "3129",
+        "product name":  "Shock Absorber suitable for (MS Omnee) Rear Left/Right (Oil)",
+        "mrp":  585,
+        "md price":  307.242,
+        "td price":  322.686
+    },
+    {
+        "part number":  "SHM0125-100",
+        "product code":  "1538",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT Old (P)) Front Left (Oil)",
+        "mrp":  3908,
+        "md price":  2052.482,
+        "td price":  2155.653
+    },
+    {
+        "part number":  "SHM0125-101",
+        "product code":  "1539",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT Old (P)) Front Right (Oil)",
+        "mrp":  3908,
+        "md price":  2052.482,
+        "td price":  2155.653
+    },
+    {
+        "part number":  "SHM0126-100",
+        "product code":  "1540",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT Old (D)) Front Left (Oil)",
+        "mrp":  4070,
+        "md price":  2137.564,
+        "td price":  2245.012
+    },
+    {
+        "part number":  "SHM0126-101",
+        "product code":  "1542",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT Old (D)) Front Right (Oil)",
+        "mrp":  4070,
+        "md price":  2137.564,
+        "td price":  2245.012
+    },
+    {
+        "part number":  "SHM0125-104",
+        "product code":  "1543",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS SWFT Old (P\u0026D)) Front Left (Oil)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SHM0125-105",
+        "product code":  "1544",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS SWFT Old (P\u0026D)) Front Right (Oil)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SHM0125-102",
+        "product code":  "1545",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT Old (P\u0026D) Front Left (Oil)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SHM0125-103",
+        "product code":  "1546",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT Old(P\u0026D) Front Right (Oil)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SGM0125-102",
+        "product code":  "1748",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT Old (P\u0026D) Front Left (Gas)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SGM0125-103",
+        "product code":  "1747",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT Old(P\u0026D) Front Right (Gas)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SGT0125-200",
+        "product code":  "1547",
+        "product name":  "Shock Absorber suitable for (MS SWFT Old(P\u0026D)) Rear Left/Right (Gas)",
+        "mrp":  1580,
+        "md price":  829.816,
+        "td price":  871.528
+    },
+    {
+        "part number":  "SGM0127-100",
+        "product code":  "1597",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (P)) Front Left (Gas)",
+        "mrp":  3899,
+        "md price":  2047.755,
+        "td price":  2150.688
+    },
+    {
+        "part number":  "SGM0127-101",
+        "product code":  "1598",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (P)) Front Right (Gas)",
+        "mrp":  3899,
+        "md price":  2047.755,
+        "td price":  2150.688
+    },
+    {
+        "part number":  "SGM0128-100",
+        "product code":  "1599",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (D)) Front Left (Gas)",
+        "mrp":  3920,
+        "md price":  2058.784,
+        "td price":  2162.272
+    },
+    {
+        "part number":  "SGM0128-101",
+        "product code":  "1600",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (D)) Front Right (Gas)",
+        "mrp":  3920,
+        "md price":  2058.784,
+        "td price":  2162.272
+    },
+    {
+        "part number":  "SGM0127-104",
+        "product code":  "1553",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS  SWFT New / Dzire (P \u0026 D)) Front Left (Gas)",
+        "mrp":  2760,
+        "md price":  1449.552,
+        "td price":  1522.416
+    },
+    {
+        "part number":  "SGM0127-105",
+        "product code":  "1554",
+        "product name":  "Shock Absorber (damper with bush kit) suitable for (MS  SWFT New / Dzire (P \u0026 D) Front Right (Gas)",
+        "mrp":  2760,
+        "md price":  1449.552,
+        "td price":  1522.416
+    },
+    {
+        "part number":  "SGM0127-102",
+        "product code":  "1602",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT New / Dzire (P \u0026 D) Front Left (Gas)",
+        "mrp":  1712,
+        "md price":  899.142,
+        "td price":  944.339
+    },
+    {
+        "part number":  "SGM0127-103",
+        "product code":  "1603",
+        "product name":  "Shock Absorber (damper) suitable for (MS SWFT New / Dzire (P \u0026 D)) Front Right (Gas)",
+        "mrp":  1712,
+        "md price":  899.142,
+        "td price":  944.339
+    },
+    {
+        "part number":  "SGT0127-200",
+        "product code":  "1555",
+        "product name":  "Shock Absorber suitable for (MS SWFT New / Dzire (P \u0026 D)) Rear Left/Right (Gas)",
+        "mrp":  1599,
+        "md price":  839.795,
+        "td price":  882.008
+    },
+    {
+        "part number":  "SGM0129-100",
+        "product code":  "3917",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT / Dzire (P) 3rd Genration) Front Left (Gas)",
+        "mrp":  4020,
+        "md price":  2111.304,
+        "td price":  2217.432
+    },
+    {
+        "part number":  "SGM0129-101",
+        "product code":  "3916",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (P)3rd Genration) Front Right (Gas)",
+        "mrp":  4020,
+        "md price":  2111.304,
+        "td price":  2217.432
+    },
+    {
+        "part number":  "SGM0129-102",
+        "product code":  "3124",
+        "product name":  "Shock Absorber (Damper) suitable for (MS SWFT New/ Dzire (P) 3rd Genration) Front Left (Gas)",
+        "mrp":  1920,
+        "md price":  1008.384,
+        "td price":  1059.072
+    },
+    {
+        "part number":  "SGM0129-103",
+        "product code":  "3123",
+        "product name":  "Shock Absorber (Damper) suitable for (MS SWFT New / Dzire (P)3rd Genration) Front Right (Gas)",
+        "mrp":  1920,
+        "md price":  1008.384,
+        "td price":  1059.072
+    },
+    {
+        "part number":  "SGM0130-100",
+        "product code":  "3919",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (D)3rd Genration) Front Left (Gas)",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGM0130-101",
+        "product code":  "3918",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS SWFT New / Dzire (D)3rd Genration) Front Right (Gas)",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGT0129-200",
+        "product code":  "3956",
+        "product name":  "Shock Absorber suitable for (MS SWFT New / Dzire (P \u0026 D)3rd Genration) Rear Left/Right (Gas)",
+        "mrp":  1620,
+        "md price":  850.824,
+        "td price":  893.592
+    },
+    {
+        "part number":  "SGM0131-100",
+        "product code":  "4177",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS S-Cros (P) 1.5L Front Left (Gas)",
+        "mrp":  4890,
+        "md price":  2568.228,
+        "td price":  2697.324
+    },
+    {
+        "part number":  "SGM0131-101",
+        "product code":  "4178",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS S-Cros (P) 1.5L Front Right (Gas)",
+        "mrp":  4890,
+        "md price":  2568.228,
+        "td price":  2697.324
+    },
+    {
+        "part number":  "SGM0132-100",
+        "product code":  "4164",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS S-Cros (D) 1.3L Front Left (Gas)",
+        "mrp":  4940,
+        "md price":  2594.488,
+        "td price":  2724.904
+    },
+    {
+        "part number":  "SGM0132-101",
+        "product code":  "4163",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS S-Cros (D) 1.3L Front Right (Gas)",
+        "mrp":  4940,
+        "md price":  2594.488,
+        "td price":  2724.904
+    },
+    {
+        "part number":  "SGM0131-102",
+        "product code":  "4165",
+        "product name":  "Shock Absorber (Damper) suitable for (MS S-Cros (P) 1.5L Front Left (Gas)",
+        "mrp":  2900,
+        "md price":  1523.08,
+        "td price":  1599.64
+    },
+    {
+        "part number":  "SGM0131-103",
+        "product code":  "4166",
+        "product name":  "Shock Absorber (Damper) suitable for (MS S-Cros (P) 1.5L Front Right (Gas)",
+        "mrp":  2900,
+        "md price":  1523.08,
+        "td price":  1599.64
+    },
+    {
+        "part number":  "SGM0132-102",
+        "product code":  "4167",
+        "product name":  "Shock Absorber (Damper) suitable for (MS S-Cros (D) 1.3L Front Left (Gas)",
+        "mrp":  2920,
+        "md price":  1533.584,
+        "td price":  1610.672
+    },
+    {
+        "part number":  "SGM0132-103",
+        "product code":  "4168",
+        "product name":  "Shock Absorber (Damper) suitable for (MS S-Cros (D) 1.3L Front Right (Gas)",
+        "mrp":  2920,
+        "md price":  1533.584,
+        "td price":  1610.672
+    },
+    {
+        "part number":  "SGT0131-200",
+        "product code":  "4169",
+        "product name":  "Shock Absorber suitable for (MS MS S-Cros 1.3L(D)/1.5L(P)) Rear Left/Right (Gas)",
+        "mrp":  2500,
+        "md price":  1313,
+        "td price":  1379
+    },
+    {
+        "part number":  "SGM0133-100",
+        "product code":  "4179",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Breza (P) 1.5L Front Left (Gas)",
+        "mrp":  5200,
+        "md price":  2731.04,
+        "td price":  2868.32
+    },
+    {
+        "part number":  "SGM0133-101",
+        "product code":  "4180",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Breza (P) 1.5L Front Right (Gas)",
+        "mrp":  5200,
+        "md price":  2731.04,
+        "td price":  2868.32
+    },
+    {
+        "part number":  "SGM0134-100",
+        "product code":  "4170",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Breza (D) 1.3L Front Left (Gas)",
+        "mrp":  5250,
+        "md price":  2757.3,
+        "td price":  2895.9
+    },
+    {
+        "part number":  "SGM0134-101",
+        "product code":  "4171",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Breza (D) 1.3L Front Right (Gas)",
+        "mrp":  5250,
+        "md price":  2757.3,
+        "td price":  2895.9
+    },
+    {
+        "part number":  "SGM0133-102",
+        "product code":  "4172",
+        "product name":  "Shock Absorber (Damper) suitable for (MS Breza (P) 1.5L Front Left (Gas)",
+        "mrp":  2550,
+        "md price":  1339.26,
+        "td price":  1406.58
+    },
+    {
+        "part number":  "SGM0133-103",
+        "product code":  "4173",
+        "product name":  "Shock Absorber (Damper) suitable for (MS Breza (P) 1.5L Front Right (Gas)",
+        "mrp":  2550,
+        "md price":  1339.26,
+        "td price":  1406.58
+    },
+    {
+        "part number":  "SGM0134-102",
+        "product code":  "4174",
+        "product name":  "Shock Absorber (Damper) suitable for (MS Breza (D) 1.3L Front Left (Gas)",
+        "mrp":  2670,
+        "md price":  1402.284,
+        "td price":  1472.772
+    },
+    {
+        "part number":  "SGM0134-103",
+        "product code":  "4175",
+        "product name":  "Shock Absorber (Damper) suitable for (MS Breza (D) 1.3L Front Right (Gas)",
+        "mrp":  2670,
+        "md price":  1402.284,
+        "td price":  1472.772
+    },
+    {
+        "part number":  "SGT0133-200",
+        "product code":  "4176",
+        "product name":  "Shock Absorber suitable for (MS MS Breza 1.3L(D)/1.5L(P)) Rear Left/Right (Gas)",
+        "mrp":  2575,
+        "md price":  1352.39,
+        "td price":  1420.37
+    },
+    {
+        "part number":  "SGT0149-200",
+        "product code":  "4822",
+        "product name":  "Shock Absorber suitable for (MS S SX4) Rear Left/Right (Gas)",
+        "mrp":  2630,
+        "md price":  1381.276,
+        "td price":  1450.708
+    },
+    {
+        "part number":  "SGM0135-100",
+        "product code":  "3140",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ceaz (P)) Front Left (Gas)",
+        "mrp":  4200,
+        "md price":  2205.84,
+        "td price":  2316.72
+    },
+    {
+        "part number":  "SGM0135-101",
+        "product code":  "3139",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ceaz (P))  Front Right (Gas)",
+        "mrp":  4200,
+        "md price":  2205.84,
+        "td price":  2316.72
+    },
+    {
+        "part number":  "SGM0136-100",
+        "product code":  "4066",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ceaz (D) Front Left (Gas)",
+        "mrp":  4290,
+        "md price":  2253.108,
+        "td price":  2366.364
+    },
+    {
+        "part number":  "SGM0136-101",
+        "product code":  "4065",
+        "product name":  "Shock Absorber (complete assembly) suitable for (MS Ceaz (D) Front Right (Gas)",
+        "mrp":  4290,
+        "md price":  2253.108,
+        "td price":  2366.364
+    },
+    {
+        "part number":  "SGM0135-102",
+        "product code":  "4823",
+        "product name":  "Shock Absorber (damper) suitable for (MS CA1Z) Front Left (Gas)",
+        "mrp":  2060,
+        "md price":  1081.912,
+        "td price":  1136.296
+    },
+    {
+        "part number":  "SGM0135-103",
+        "product code":  "4824",
+        "product name":  "Shock Absorber (damper) suitable for (MS CA1Z) Front Right (Gas)",
+        "mrp":  2060,
+        "md price":  1081.912,
+        "td price":  1136.296
+    },
+    {
+        "part number":  "SGT0135-200",
+        "product code":  "3141",
+        "product name":  "Shock Absorber suitable for (MS Ceaz (P\u0026D) Rear Left/Right (Gas)",
+        "mrp":  2180,
+        "md price":  1144.936,
+        "td price":  1202.488
+    },
+    {
+        "part number":  "SGT0145-200",
+        "product code":  "4630",
+        "product name":  "Shock Absorber suitable for (MS Supper cary (P) Rear Left/Right (Gas)",
+        "mrp":  1165,
+        "md price":  611.858,
+        "td price":  642.614
+    },
+    {
+        "part number":  "SGT0146-200",
+        "product code":  "4671",
+        "product name":  "Shock Absorber suitable for (MS Supper cary (CNG) Rear Left/Right (Gas)",
+        "mrp":  1190,
+        "md price":  624.988,
+        "td price":  656.404
+    },
+    {
+        "part number":  "SGT1002-200",
+        "product code":  "2925",
+        "product name":  "Shock Absorber suitable for (CH Spark) Rear Left/Right (Gas)",
+        "mrp":  1258,
+        "md price":  660.702,
+        "td price":  693.913
+    },
+    {
+        "part number":  "SGM10103-102",
+        "product code":  "2199",
+        "product name":  "Shock Absorber suitable for (CH beet) Front Left (Gas)",
+        "mrp":  2295,
+        "md price":  1205.334,
+        "td price":  1265.922
+    },
+    {
+        "part number":  "SGM10103-103",
+        "product code":  "2200",
+        "product name":  "Shock Absorber suitable for (CH beet) Front Right (Gas)",
+        "mrp":  2295,
+        "md price":  1205.334,
+        "td price":  1265.922
+    },
+    {
+        "part number":  "SGT10103-200",
+        "product code":  "2572",
+        "product name":  "Shock Absorber suitable for (CH beet) Rear Left/Right (Gas)",
+        "mrp":  1456,
+        "md price":  764.691,
+        "td price":  803.13
+    },
+    {
+        "part number":  "SGM1001-102",
+        "product code":  "3493",
+        "product name":  "Shock Absorber suitable for (CH Cruuzet) Front Left (Gas)",
+        "mrp":  4900,
+        "md price":  2573.48,
+        "td price":  2702.84
+    },
+    {
+        "part number":  "SGM1001-103",
+        "product code":  "3494",
+        "product name":  "Shock Absorber suitable for (CH Cruuze) Front Right (Gas)",
+        "mrp":  4900,
+        "md price":  2573.48,
+        "td price":  2702.84
+    },
+    {
+        "part number":  "SGT1001-200",
+        "product code":  "3495",
+        "product name":  "Shock Absorber suitable for (CH Cruuze) Rear Left/Right (Gas)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SGT1036-200",
+        "product code":  "4552",
+        "product name":  "Shock Absorber suitable for (CH Enjy) Rear Left/Right (Gas)",
+        "mrp":  2700,
+        "md price":  1418.04,
+        "td price":  1489.32
+    },
+    {
+        "part number":  "SGS0535-100",
+        "product code":  "4426",
+        "product name":  "Shock Absorber (Complete assembly) suitable for (TK Inova) Front Left (Gas)",
+        "mrp":  4444,
+        "md price":  2333.989,
+        "td price":  2451.31
+    },
+    {
+        "part number":  "SGS0535-101",
+        "product code":  "4387",
+        "product name":  "Shock Absorber (Complete assembly) suitable for (TK Inova) Front Right (Gas)",
+        "mrp":  4444,
+        "md price":  2333.989,
+        "td price":  2451.31
+    },
+    {
+        "part number":  "SGS0535-102",
+        "product code":  "1533",
+        "product name":  "Shock Absorber (damper) suitable for (TK Inova) Front Left (Gas)",
+        "mrp":  1810,
+        "md price":  950.612,
+        "td price":  998.396
+    },
+    {
+        "part number":  "SGS0535-103",
+        "product code":  "1532",
+        "product name":  "Shock Absorber (damper) suitable for (TK Inova) Front Right (Gas)",
+        "mrp":  1810,
+        "md price":  950.612,
+        "td price":  998.396
+    },
+    {
+        "part number":  "SGT0535-200",
+        "product code":  "1534",
+        "product name":  "Shock Absorber suitable for (TK Inova) Rear Left/Right (Gas)",
+        "mrp":  1340,
+        "md price":  703.768,
+        "td price":  739.144
+    },
+    {
+        "part number":  "SGS0507-100",
+        "product code":  "4511",
+        "product name":  "Shock Absorber (Complete assembly) suitable for (TK Inova Crysta) Front Left (Gas)",
+        "mrp":  4400,
+        "md price":  2310.88,
+        "td price":  2427.04
+    },
+    {
+        "part number":  "SGS0507-101",
+        "product code":  "4436",
+        "product name":  "Shock Absorber (Complete assembly) suitable for (TK Inova Crysta) Front Right (Gas)",
+        "mrp":  4400,
+        "md price":  2310.88,
+        "td price":  2427.04
+    },
+    {
+        "part number":  "SGS0507-102",
+        "product code":  "4434",
+        "product name":  "Shock Absorber (damper) suitable for (TK Inova Crysta) Front Left (Gas)",
+        "mrp":  1810,
+        "md price":  950.612,
+        "td price":  998.396
+    },
+    {
+        "part number":  "SGS0507-103",
+        "product code":  "4435",
+        "product name":  "Shock Absorber (damper) suitable for (TK Inova Crysta) Front Right (Gas)",
+        "mrp":  1810,
+        "md price":  950.612,
+        "td price":  998.396
+    },
+    {
+        "part number":  "SGT0507-200",
+        "product code":  "4604",
+        "product name":  "Shock Absorber suitable for (TK Inova Crysta) Rear Left/Right (Gas)",
+        "mrp":  1485,
+        "md price":  779.922,
+        "td price":  819.126
+    },
+    {
+        "part number":  "SGM0592-100",
+        "product code":  "3280",
+        "product name":  "Shock Absorber (complete assembly) suitable for (TK Leva/Etos) Front Left /Right(Gas)",
+        "mrp":  4650,
+        "md price":  2442.18,
+        "td price":  2564.94
+    },
+    {
+        "part number":  "SGM0592-102",
+        "product code":  "2149",
+        "product name":  "Shock Absorber (damper) suitable for (TK Leva/Etos) Front Left /Right(Gas)",
+        "mrp":  2280,
+        "md price":  1197.456,
+        "td price":  1257.648
+    },
+    {
+        "part number":  "SGT0592-200",
+        "product code":  "2116",
+        "product name":  "Shock Absorber suitable for (TK Leva/Etos) Rear L/R (Gas)",
+        "mrp":  1440,
+        "md price":  756.288,
+        "td price":  794.304
+    },
+    {
+        "part number":  "SGM0506-102",
+        "product code":  "3496",
+        "product name":  "Shock Absorber (damper) suitable for (Corola Atis) Front Left (Gas)",
+        "mrp":  3490,
+        "md price":  1832.948,
+        "td price":  1925.084
+    },
+    {
+        "part number":  "SGM0506-103",
+        "product code":  "3497",
+        "product name":  "Shock Absorber (damper) suitable for(Corola Atis) Front Right (Gas)",
+        "mrp":  3490,
+        "md price":  1832.948,
+        "td price":  1925.084
+    },
+    {
+        "part number":  "SGM0506-200",
+        "product code":  "3498",
+        "product name":  "Shock Absorber suitable for (Corola Atis) Rear L/R (Gas)",
+        "mrp":  2695,
+        "md price":  1415.414,
+        "td price":  1486.562
+    },
+    {
+        "part number":  "SGM0510-102",
+        "product code":  "4298",
+        "product name":  "Shock Absorber(Damper) suitable for (New Corola Atis) Front Left(GAS)",
+        "mrp":  5350,
+        "md price":  2809.82,
+        "td price":  2951.06
+    },
+    {
+        "part number":  "SGM0510-103",
+        "product code":  "4299",
+        "product name":  "Shock Absorber(Damper) suitable for (New Corola Atis) Front Right(GAS)",
+        "mrp":  5350,
+        "md price":  2809.82,
+        "td price":  2951.06
+    },
+    {
+        "part number":  "SGM0510-202",
+        "product code":  "4465",
+        "product name":  "Shock Absorber(Damper) suitable for (New Corola Atis) Rear L/R(GAS)",
+        "mrp":  2680,
+        "md price":  1407.536,
+        "td price":  1478.288
+    },
+    {
+        "part number":  "SGS0508-102",
+        "product code":  "3310",
+        "product name":  "Shock Absorber (damper) suitable for (Fortunr Front) Front Left/Righ (Gas)",
+        "mrp":  2525,
+        "md price":  1326.13,
+        "td price":  1392.79
+    },
+    {
+        "part number":  "SGT0508-200",
+        "product code":  "4032",
+        "product name":  "Shock Absorber suitable for (Fortunr ) Rear Left/Righ (Gas)",
+        "mrp":  2500,
+        "md price":  1313,
+        "td price":  1379
+    },
+    {
+        "part number":  "SGS0509-102",
+        "product code":  "5016",
+        "product name":  "Shock Absorber (damper) suitable for (Fortunr type 2 Front) Front Left/Right (Gas)",
+        "mrp":  2450,
+        "md price":  1286.74,
+        "td price":  1351.42
+    },
+    {
+        "part number":  "SGT0509-200",
+        "product code":  "4464",
+        "product name":  "Shock Absorber suitable for Fortunr TYPE 2(2016-till now)Rear L/R(GAS)",
+        "mrp":  2300,
+        "md price":  1207.96,
+        "td price":  1268.68
+    },
+    {
+        "part number":  "SGM0405-100",
+        "product code":  "4900",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Grnd-i10) Front Left (Gas)(P)",
+        "mrp":  3800,
+        "md price":  1995.76,
+        "td price":  2096.08
+    },
+    {
+        "part number":  "SGM0405-101",
+        "product code":  "4901",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Grnd-i10) Front Right (Gas)(P)",
+        "mrp":  3800,
+        "md price":  1995.76,
+        "td price":  2096.08
+    },
+    {
+        "part number":  "SGM0405-102",
+        "product code":  "4885",
+        "product name":  "Shock Absorber (Damper) suitable for (HY Grnd-i10) Front Left (Gas)(P)",
+        "mrp":  1799,
+        "md price":  944.835,
+        "td price":  992.328
+    },
+    {
+        "part number":  "SGM0405-103",
+        "product code":  "4886",
+        "product name":  "Shock Absorber (Damper) suitable for (HY Grnd-i10) Front Right (Gas)(P)",
+        "mrp":  1799,
+        "md price":  944.835,
+        "td price":  992.328
+    },
+    {
+        "part number":  "SGT0405-200",
+        "product code":  "2928",
+        "product name":  "Shock Absorber suitable for (HY Grnd-i1O) Rear Left/Right (Gas)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGM0409-100",
+        "product code":  "4535",
+        "product name":  "Shock Absorber (Comp. Assembly) suitable for (HY I2O Elit(P)) Front Left (Gas)",
+        "mrp":  4620,
+        "md price":  2426.424,
+        "td price":  2548.392
+    },
+    {
+        "part number":  "SGM0409-101",
+        "product code":  "3173",
+        "product name":  "Shock Absorber (Comp. Assembly) suitable for (HY  I2O Elit(P)) Front Right (Gas)",
+        "mrp":  4620,
+        "md price":  2426.424,
+        "td price":  2548.392
+    },
+    {
+        "part number":  "SGM0410-100",
+        "product code":  "3174",
+        "product name":  "Shock Absorber (Comp. Assembly) suitable for (HY I2O Elit(D)) Front Left (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0410-101",
+        "product code":  "3175",
+        "product name":  "Shock Absorber (Comp. Assembly) suitable for (HY  I2O Elit(D)) Front Right (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0409-102",
+        "product code":  "2926",
+        "product name":  "Shock Absorber+C243:C248 (damper) suitable for (HY I2O Elit) Front Left (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0409-103",
+        "product code":  "2927",
+        "product name":  "Shock Absorber (damper) suitable for (HY  I2O Elit) Front Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGT0414-200",
+        "product code":  "4420",
+        "product name":  "Shock Absorber suitable for (HY I2O Activ) Rear Left/Right (Gas)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGM0403-100",
+        "product code":  "4596",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Virna Fluidic(P)) Front Left (Gas)",
+        "mrp":  4800,
+        "md price":  2520.96,
+        "td price":  2647.68
+    },
+    {
+        "part number":  "SGM0403-101",
+        "product code":  "4597",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Virna Fluidic(P)) Front Right (Gas)",
+        "mrp":  4800,
+        "md price":  2520.96,
+        "td price":  2647.68
+    },
+    {
+        "part number":  "SGM0404-100",
+        "product code":  "4594",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Virna Fluidic(D)) Front Left (Gas)",
+        "mrp":  4920,
+        "md price":  2583.984,
+        "td price":  2713.872
+    },
+    {
+        "part number":  "SGM0404-101",
+        "product code":  "4595",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Virna Fluidic(D)) Front Right (Gas)",
+        "mrp":  4920,
+        "md price":  2583.984,
+        "td price":  2713.872
+    },
+    {
+        "part number":  "SGM0403-102",
+        "product code":  "2933",
+        "product name":  "Shock Absorber (damper) suitable for (HY Virna Fluidic) Front Left (Gas)",
+        "mrp":  2270,
+        "md price":  1192.204,
+        "td price":  1252.132
+    },
+    {
+        "part number":  "SGM0403-103",
+        "product code":  "2934",
+        "product name":  "Shock Absorber (damper) suitable for (HY Virna Fluidic) Front Right (Gas)",
+        "mrp":  2270,
+        "md price":  1192.204,
+        "td price":  1252.132
+    },
+    {
+        "part number":  "SGM0447-100",
+        "product code":  "3342",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY E0N) Front Left/Right (Gas)",
+        "mrp":  3600,
+        "md price":  1890.72,
+        "td price":  1985.76
+    },
+    {
+        "part number":  "SGM0447-102",
+        "product code":  "2944",
+        "product name":  "Shock Absorber (Damper) suitable for (HY E0N) Front Left /Right(Gas)",
+        "mrp":  1650,
+        "md price":  866.58,
+        "td price":  910.14
+    },
+    {
+        "part number":  "SGT0447-200",
+        "product code":  "3010",
+        "product name":  "Shock Absorber suitable for (HY E0N) Rear Left/Right (Gas)",
+        "mrp":  1200,
+        "md price":  630.24,
+        "td price":  661.92
+    },
+    {
+        "part number":  "SGM0437-100",
+        "product code":  "3053",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Sntro Old \u0026 New) Front Left (Gas)",
+        "mrp":  4000,
+        "md price":  2100.8,
+        "td price":  2206.4
+    },
+    {
+        "part number":  "SGM0437-101",
+        "product code":  "3052",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY Sntro Old \u0026 New) Front Right (Gas)",
+        "mrp":  4000,
+        "md price":  2100.8,
+        "td price":  2206.4
+    },
+    {
+        "part number":  "SGM0437-102",
+        "product code":  "1649",
+        "product name":  "Shock Absorber (damper) suitable for (HY Sntro Old \u0026 New) Front Left (Gas)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGM0437-103",
+        "product code":  "1648",
+        "product name":  "Shock Absorber (damper) suitable for (HY Sntro Old \u0026 New) Front Right (Gas)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGT0437-200",
+        "product code":  "2164",
+        "product name":  "Shock Absorber suitable for (HY Sntro Old \u0026 New) Rear Left/Right (Gas)",
+        "mrp":  800,
+        "md price":  420.16,
+        "td price":  441.28
+    },
+    {
+        "part number":  "SGM0442-100",
+        "product code":  "3282",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY I1O) Front Left (Gas)",
+        "mrp":  4480,
+        "md price":  2352.896,
+        "td price":  2471.168
+    },
+    {
+        "part number":  "SGM0442-101",
+        "product code":  "3281",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY I1O) Front Right (Gas)",
+        "mrp":  4480,
+        "md price":  2352.896,
+        "td price":  2471.168
+    },
+    {
+        "part number":  "SGM0442-102",
+        "product code":  "3284",
+        "product name":  "Shock Absorber (Damper) suitable for (HY I1O) Front Left (Gas)",
+        "mrp":  1600,
+        "md price":  840.32,
+        "td price":  882.56
+    },
+    {
+        "part number":  "SGM0442-103",
+        "product code":  "3283",
+        "product name":  "Shock Absorber (Damper) suitable for (HY I1O) Front Right (Gas)",
+        "mrp":  1600,
+        "md price":  840.32,
+        "td price":  882.56
+    },
+    {
+        "part number":  "SGT0442-200",
+        "product code":  "4071",
+        "product name":  "Shock Absorber suitable for (HY I1O ) Rear Left/Right (Gas)",
+        "mrp":  1590,
+        "md price":  835.068,
+        "td price":  877.044
+    },
+    {
+        "part number":  "SGM0443-100",
+        "product code":  "3131",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY I2O Diesel) Front Left (Gas)",
+        "mrp":  4620,
+        "md price":  2426.424,
+        "td price":  2548.392
+    },
+    {
+        "part number":  "SGM0443-101",
+        "product code":  "3132",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HY  I2O Diesel) Front Right (Gas)",
+        "mrp":  4620,
+        "md price":  2426.424,
+        "td price":  2548.392
+    },
+    {
+        "part number":  "SGM0443-102",
+        "product code":  "2072",
+        "product name":  "Shock Absorber (damper) suitable for (HY I2O) Front Left (Gas)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SGM0443-103",
+        "product code":  "2073",
+        "product name":  "Shock Absorber (damper) suitable for (HY  I2O) Front Right (Gas)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SGT0443-200",
+        "product code":  "4072",
+        "product name":  "Shock Absorber suitable for (HY I2O ) Rear Left/Right (Gas)",
+        "mrp":  1850,
+        "md price":  971.62,
+        "td price":  1020.46
+    },
+    {
+        "part number":  "SGM0411-102",
+        "product code":  "4319",
+        "product name":  "Shock Absorber (Damper) suitable for (HY Crta) Front Left (Gas)",
+        "mrp":  3180,
+        "md price":  1670.136,
+        "td price":  1754.088
+    },
+    {
+        "part number":  "SGM0411-103",
+        "product code":  "4320",
+        "product name":  "Shock Absorber (Damper) suitable for (HY  Crta) Front Right (Gas)",
+        "mrp":  3180,
+        "md price":  1670.136,
+        "td price":  1754.088
+    },
+    {
+        "part number":  "SGT0411-200",
+        "product code":  "2940",
+        "product name":  "Shock Absorber suitable for (HY Crta) Rear Left/Right (Gas)",
+        "mrp":  1900,
+        "md price":  997.88,
+        "td price":  1048.04
+    },
+    {
+        "part number":  "SGM0638-100",
+        "product code":  "4869",
+        "product name":  "Shock Absorber (complete assembly) suitable for (V.W P0L0/ Vnto) Front Left/Right (Gas)",
+        "mrp":  5000,
+        "md price":  2626,
+        "td price":  2758
+    },
+    {
+        "part number":  "SGM0638-102",
+        "product code":  "3499",
+        "product name":  "Shock Absorber damper suitable for (V.W P0L0/ Vnto) Front Left/Right (Gas)",
+        "mrp":  2498,
+        "md price":  1311.95,
+        "td price":  1377.897
+    },
+    {
+        "part number":  "SGT0638-200",
+        "product code":  "1685",
+        "product name":  "Shock Absorber suitable for (V.W P0L0 Vnto and Sk0da Rpid) Rear Left/Right (Gas)",
+        "mrp":  1830,
+        "md price":  961.116,
+        "td price":  1009.428
+    },
+    {
+        "part number":  "SGS0706-102",
+        "product code":  "4317",
+        "product name":  "Shock Absorber(DAMPER) suitable for L0RA AOTOMATIC -LH/RH Front L/R(GAS)",
+        "mrp":  4750,
+        "md price":  2494.7,
+        "td price":  2620.1
+    },
+    {
+        "part number":  "SGT0706-200",
+        "product code":  "4318",
+        "product name":  "Shock Absorber suitable for L0RA AOTOMATIC Rear L/R(GAS)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0702-102",
+        "product code":  "3500",
+        "product name":  "Shock Absorber damper suitable for (Skda Fabea) Front Left/Right (Gas)",
+        "mrp":  2300,
+        "md price":  1207.96,
+        "td price":  1268.68
+    },
+    {
+        "part number":  "SGM0361-100",
+        "product code":  "2788",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM City T 3)  Front Left (Gas)",
+        "mrp":  5080,
+        "md price":  2668.016,
+        "td price":  2802.128
+    },
+    {
+        "part number":  "SGM0361-101",
+        "product code":  "2787",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM City T 3)  Front Right (Gas)",
+        "mrp":  5080,
+        "md price":  2668.016,
+        "td price":  2802.128
+    },
+    {
+        "part number":  "SGM0361-102",
+        "product code":  "2039",
+        "product name":  "Shock Absorber damper suitable for (HM City T3) Front Left (Gas)",
+        "mrp":  2700,
+        "md price":  1418.04,
+        "td price":  1489.32
+    },
+    {
+        "part number":  "SGM0361-103",
+        "product code":  "2038",
+        "product name":  "Shock Absorber damper suitable for (HM City T3) Front Right (Gas)",
+        "mrp":  2700,
+        "md price":  1418.04,
+        "td price":  1489.32
+    },
+    {
+        "part number":  "SGM0361-104",
+        "product code":  "2792",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for (HM T3)  Front Left (Gas)",
+        "mrp":  3525,
+        "md price":  1851.33,
+        "td price":  1944.39
+    },
+    {
+        "part number":  "SGM0361-105",
+        "product code":  "2791",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for(HM T3)  Front Right (Gas)",
+        "mrp":  3525,
+        "md price":  1851.33,
+        "td price":  1944.39
+    },
+    {
+        "part number":  "SGM0362-100",
+        "product code":  "2786",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM City T 4)  Front Left (Gas)",
+        "mrp":  5080,
+        "md price":  2668.016,
+        "td price":  2802.128
+    },
+    {
+        "part number":  "SGM0362-101",
+        "product code":  "2785",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM City T 4)  Front Right (Gas)",
+        "mrp":  5080,
+        "md price":  2668.016,
+        "td price":  2802.128
+    },
+    {
+        "part number":  "SGM0362-102",
+        "product code":  "2041",
+        "product name":  "Shock Absorber damper suitable for (HM City City T 4) Front Left (Gas)",
+        "mrp":  2600,
+        "md price":  1365.52,
+        "td price":  1434.16
+    },
+    {
+        "part number":  "SGM0362-103",
+        "product code":  "2040",
+        "product name":  "Shock Absorber damper suitable for (HM City City T 4) Front Right (Gas)",
+        "mrp":  2600,
+        "md price":  1365.52,
+        "td price":  1434.16
+    },
+    {
+        "part number":  "SGM0362-104",
+        "product code":  "2790",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for (HM City T 4)  Front Left (Gas)",
+        "mrp":  3525,
+        "md price":  1851.33,
+        "td price":  1944.39
+    },
+    {
+        "part number":  "SGM0362-105",
+        "product code":  "2789",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for(HM City T 4)  Front Right (Gas)",
+        "mrp":  3525,
+        "md price":  1851.33,
+        "td price":  1944.39
+    },
+    {
+        "part number":  "SGT0361-200",
+        "product code":  "1716",
+        "product name":  "Shock Absorber suitable for (HM City City T 3 \u0026 4) Rear Left/Right (Gas)",
+        "mrp":  2230,
+        "md price":  1171.196,
+        "td price":  1230.068
+    },
+    {
+        "part number":  "SGM0363-100",
+        "product code":  "2693",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM City-5)  Front Left (Gas)",
+        "mrp":  4200,
+        "md price":  2205.84,
+        "td price":  2316.72
+    },
+    {
+        "part number":  "SGM0363-101",
+        "product code":  "2694",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM City-5)  Front Right (Gas)",
+        "mrp":  4200,
+        "md price":  2205.84,
+        "td price":  2316.72
+    },
+    {
+        "part number":  "SGM0363-102",
+        "product code":  "2210",
+        "product name":  "Shock Absorber (damper) suitable for (HM City-5)  Front Left (Gas)",
+        "mrp":  2330,
+        "md price":  1223.716,
+        "td price":  1285.228
+    },
+    {
+        "part number":  "SGM0363-103",
+        "product code":  "2209",
+        "product name":  "Shock Absorber (damper) suitable for(HM City-5)  Front Right (Gas)",
+        "mrp":  2330,
+        "md price":  1223.716,
+        "td price":  1285.228
+    },
+    {
+        "part number":  "SGT0363-200",
+        "product code":  "1727",
+        "product name":  "Shock Absorber suitable for(HM City-5) Rear Left/Right (Gas)",
+        "mrp":  2045,
+        "md price":  1074.034,
+        "td price":  1128.022
+    },
+    {
+        "part number":  "SGM0313-100",
+        "product code":  "4421",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM City-6/7)  Front Left (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0313-101",
+        "product code":  "4422",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM City-6/7)  Front Right (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0313-102",
+        "product code":  "4423",
+        "product name":  "Shock Absorber (damper) suitable for (HM City-6/7)  Front Left (Gas)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SGM0313-103",
+        "product code":  "4424",
+        "product name":  "Shock Absorber (damper) suitable for(HM City-6/7)  Front Right (Gas)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SGT0313-200",
+        "product code":  "4425",
+        "product name":  "Shock Absorber suitable for(HM City-6/7) Rear Left/Right (Gas)",
+        "mrp":  1965,
+        "md price":  1032.018,
+        "td price":  1083.894
+    },
+    {
+        "part number":  "SGM0302-100",
+        "product code":  "3118",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz)  Front Left (Gas)- Diesel",
+        "mrp":  4130,
+        "md price":  2169.076,
+        "td price":  2278.108
+    },
+    {
+        "part number":  "SGM0302-101",
+        "product code":  "3117",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Amaz)  Front Right (Gas) - Diesel",
+        "mrp":  4130,
+        "md price":  2169.076,
+        "td price":  2278.108
+    },
+    {
+        "part number":  "SGM0303-100",
+        "product code":  "2752",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz)  Front Left (Gas)- Petrol",
+        "mrp":  4085,
+        "md price":  2145.442,
+        "td price":  2253.286
+    },
+    {
+        "part number":  "SGM0303-101",
+        "product code":  "2751",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Amaz)  Front Right (Gas) - Petrol",
+        "mrp":  4085,
+        "md price":  2145.442,
+        "td price":  2253.286
+    },
+    {
+        "part number":  "SGM0303-102",
+        "product code":  "2218",
+        "product name":  "Shock Absorber (damper) suitable for (HM Amaz)  Front Left (Gas)",
+        "mrp":  2080,
+        "md price":  1092.416,
+        "td price":  1147.328
+    },
+    {
+        "part number":  "SGM0303-103",
+        "product code":  "2217",
+        "product name":  "Shock Absorber (damper) suitable for(HM Amaz)  Front Right (Gas)",
+        "mrp":  2080,
+        "md price":  1092.416,
+        "td price":  1147.328
+    },
+    {
+        "part number":  "SGM0303-104",
+        "product code":  "2774",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for (HM Amaz)  Front Left (Gas)",
+        "mrp":  2895,
+        "md price":  1520.454,
+        "td price":  1596.882
+    },
+    {
+        "part number":  "SGM0303-105",
+        "product code":  "2773",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for(HM Amaz)  Front Right (Gas)",
+        "mrp":  2895,
+        "md price":  1520.454,
+        "td price":  1596.882
+    },
+    {
+        "part number":  "SGT0303-200",
+        "product code":  "2548",
+        "product name":  "Shock Absorber suitable for (HM Amaz) Rear Left/Right (Gas)",
+        "mrp":  1825,
+        "md price":  958.49,
+        "td price":  1006.67
+    },
+    {
+        "part number":  "SGM0318-102",
+        "product code":  "4419",
+        "product name":  "Shock Absorber (damper) suitable for (HM Amaz type 2)  Front Left (Gas)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SGM0318-103",
+        "product code":  "4418",
+        "product name":  "Shock Absorber (damper) suitable for(HM Amaz type 2)  Front Right (Gas)",
+        "mrp":  2075,
+        "md price":  1089.79,
+        "td price":  1144.57
+    },
+    {
+        "part number":  "SGM0318-100",
+        "product code":  "4915",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz type 2)  Front Left (P)",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGM0318-101",
+        "product code":  "4916",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz type 2)  Front Right (P)",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGM0319-100",
+        "product code":  "4917",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz type 2)  Front Left (D)",
+        "mrp":  4260,
+        "md price":  2237.352,
+        "td price":  2349.816
+    },
+    {
+        "part number":  "SGM0319-101",
+        "product code":  "4918",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Amaz type 2)  Front Right (D)",
+        "mrp":  4260,
+        "md price":  2237.352,
+        "td price":  2349.816
+    },
+    {
+        "part number":  "SGM0319-102",
+        "product code":  "4919",
+        "product name":  "Shock Absorber (damper) suitable for (HM Amaz type 2)  Front Left (D)",
+        "mrp":  2010,
+        "md price":  1055.652,
+        "td price":  1108.716
+    },
+    {
+        "part number":  "SGM0319-103",
+        "product code":  "4920",
+        "product name":  "Shock Absorber (damper) suitable for(HM Amaz type 2)  Front Right (D)",
+        "mrp":  2010,
+        "md price":  1055.652,
+        "td price":  1108.716
+    },
+    {
+        "part number":  "SGT0318-200",
+        "product code":  "4411",
+        "product name":  "Shock Absorber suitable for (HM Amaz Type 2) Rear Left/Right (Gas)",
+        "mrp":  2000,
+        "md price":  1050.4,
+        "td price":  1103.2
+    },
+    {
+        "part number":  "SGM0304-100",
+        "product code":  "2754",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Breo)  Front Left (Gas)",
+        "mrp":  4090,
+        "md price":  2148.068,
+        "td price":  2256.044
+    },
+    {
+        "part number":  "SGM0304-101",
+        "product code":  "2753",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Breo)  Front Right (Gas)",
+        "mrp":  4090,
+        "md price":  2148.068,
+        "td price":  2256.044
+    },
+    {
+        "part number":  "SGM0304-102",
+        "product code":  "2766",
+        "product name":  "Shock Absorber (damper) suitable for (HM Breo)  Front Left (Gas)",
+        "mrp":  2080,
+        "md price":  1092.416,
+        "td price":  1147.328
+    },
+    {
+        "part number":  "SGM0304-103",
+        "product code":  "2765",
+        "product name":  "Shock Absorber (damper) suitable for(HM Breo)  Front Right (Gas)",
+        "mrp":  2080,
+        "md price":  1092.416,
+        "td price":  1147.328
+    },
+    {
+        "part number":  "SGM0304-104",
+        "product code":  "2776",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for (HM Breo)  Front Left (Gas)",
+        "mrp":  2990,
+        "md price":  1570.348,
+        "td price":  1649.284
+    },
+    {
+        "part number":  "SGM0304-105",
+        "product code":  "2775",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for(HM Breo)  Front Right (Gas)",
+        "mrp":  2990,
+        "md price":  1570.348,
+        "td price":  1649.284
+    },
+    {
+        "part number":  "SGT0304-200",
+        "product code":  "2736",
+        "product name":  "Shock Absorber suitable for (HM Breo) Rear Left/Right (Gas)",
+        "mrp":  1800,
+        "md price":  945.36,
+        "td price":  992.88
+    },
+    {
+        "part number":  "SGM0305-100",
+        "product code":  "2762",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Jaz)  Front Left (Gas)",
+        "mrp":  4750,
+        "md price":  2494.7,
+        "td price":  2620.1
+    },
+    {
+        "part number":  "SGM0305-101",
+        "product code":  "2761",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Jaz)  Front Right (Gas)",
+        "mrp":  4750,
+        "md price":  2494.7,
+        "td price":  2620.1
+    },
+    {
+        "part number":  "SGM0305-102",
+        "product code":  "2770",
+        "product name":  "Shock Absorber (damper) suitable for (HM Jaz)  Front Left (Gas)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0305-103",
+        "product code":  "2769",
+        "product name":  "Shock Absorber (damper) suitable for(HM Jaz)  Front Right (Gas)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0305-104",
+        "product code":  "2782",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for (HM Jaz)  Front Left (Gas)",
+        "mrp":  3475,
+        "md price":  1825.07,
+        "td price":  1916.81
+    },
+    {
+        "part number":  "SGM0305-105",
+        "product code":  "2781",
+        "product name":  "Shock Absorber (damper with Bush Kit) suitable for(HM Jaz)  Front Right (Gas)",
+        "mrp":  3475,
+        "md price":  1825.07,
+        "td price":  1916.81
+    },
+    {
+        "part number":  "SGT0305-200",
+        "product code":  "2741",
+        "product name":  "Shock Absorber suitable for (HM Jaz) Rear Left/Right (Gas)",
+        "mrp":  2150,
+        "md price":  1129.18,
+        "td price":  1185.94
+    },
+    {
+        "part number":  "SGM0307-100",
+        "product code":  "2764",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Mobelio(P))  Front Left (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0307-101",
+        "product code":  "2763",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Mobelio(P))  Front Right (Gas)",
+        "mrp":  4700,
+        "md price":  2468.44,
+        "td price":  2592.52
+    },
+    {
+        "part number":  "SGM0308-100",
+        "product code":  "2803",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM Mobelio(D))  Front Left (Gas)",
+        "mrp":  4870,
+        "md price":  2557.724,
+        "td price":  2686.292
+    },
+    {
+        "part number":  "SGM0308-101",
+        "product code":  "2802",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM Mobelio(D))  Front Right (Gas)",
+        "mrp":  4870,
+        "md price":  2557.724,
+        "td price":  2686.292
+    },
+    {
+        "part number":  "SGM0307-102",
+        "product code":  "2772",
+        "product name":  "Shock Absorber (Damper) suitable for (HM Mobelio)  Front Left (Gas)",
+        "mrp":  2360,
+        "md price":  1239.472,
+        "td price":  1301.776
+    },
+    {
+        "part number":  "SGM0307-103",
+        "product code":  "2771",
+        "product name":  "Shock Absorber (Damper) suitable for(HM Mobelio)  Front Right (Gas)",
+        "mrp":  2360,
+        "md price":  1239.472,
+        "td price":  1301.776
+    },
+    {
+        "part number":  "SGM0307-104",
+        "product code":  "2784",
+        "product name":  "Shock Absorber (Damper with Bush Kit) suitable for (HM Mobelio)  Front Left (Gas)",
+        "mrp":  3650,
+        "md price":  1916.98,
+        "td price":  2013.34
+    },
+    {
+        "part number":  "SGM0307-105",
+        "product code":  "2783",
+        "product name":  "Shock Absorber (Damper with Bush Kit) suitable for(HM Mobelio)  Front Right (Gas)",
+        "mrp":  3650,
+        "md price":  1916.98,
+        "td price":  2013.34
+    },
+    {
+        "part number":  "SGT0307-200",
+        "product code":  "2744",
+        "product name":  "Shock Absorber suitable for (HM Mobelio) Rear Left/Right (Gas)",
+        "mrp":  2100,
+        "md price":  1102.92,
+        "td price":  1158.36
+    },
+    {
+        "part number":  "SGM0311-102",
+        "product code":  "4012",
+        "product name":  "Shock Absorber (Damper) suitable for (HM C R V type 3/4)  Front Left (Gas)",
+        "mrp":  5000,
+        "md price":  2626,
+        "td price":  2758
+    },
+    {
+        "part number":  "SGM0311-103",
+        "product code":  "4013",
+        "product name":  "Shock Absorber (Damper) suitable for(HM C R V type 3/4)  Front Right (Gas)",
+        "mrp":  5000,
+        "md price":  2626,
+        "td price":  2758
+    },
+    {
+        "part number":  "SGS0311-200",
+        "product code":  "4014",
+        "product name":  "Shock Absorber (Damper) suitable for(HM C R V type 3)  Rear L/R (Gas)",
+        "mrp":  3200,
+        "md price":  1680.64,
+        "td price":  1765.12
+    },
+    {
+        "part number":  "SGS0312-200",
+        "product code":  "4015",
+        "product name":  "Shock Absorber (Damper) suitable for(HM C R V type 4)  Rear L/R (Gas)",
+        "mrp":  3200,
+        "md price":  1680.64,
+        "td price":  1765.12
+    },
+    {
+        "part number":  "SGM0309-100",
+        "product code":  "2757",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM B R V(P))  Front Left (Gas)",
+        "mrp":  4730,
+        "md price":  2484.196,
+        "td price":  2609.068
+    },
+    {
+        "part number":  "SGM0309-101",
+        "product code":  "2755",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM B R V(P))  Front Right (Gas)",
+        "mrp":  4730,
+        "md price":  2484.196,
+        "td price":  2609.068
+    },
+    {
+        "part number":  "SGM0310-100",
+        "product code":  "2801",
+        "product name":  "Shock Absorber (complete assembly) suitable for (HM B R V(D))  Front Left (Gas)",
+        "mrp":  4925,
+        "md price":  2586.61,
+        "td price":  2716.63
+    },
+    {
+        "part number":  "SGM0310-101",
+        "product code":  "2800",
+        "product name":  "Shock Absorber (complete assembly) suitable for(HM B R V(D))  Front Right (Gas)",
+        "mrp":  4925,
+        "md price":  2586.61,
+        "td price":  2716.63
+    },
+    {
+        "part number":  "SGM0309-102",
+        "product code":  "2768",
+        "product name":  "Shock Absorber (Damper P/D) suitable for (HM B R V)  Front Left (Gas)",
+        "mrp":  2470,
+        "md price":  1297.244,
+        "td price":  1362.452
+    },
+    {
+        "part number":  "SGM0309-103",
+        "product code":  "2767",
+        "product name":  "Shock Absorber (Damper P/D) suitable for(HM B R V)  Front Right (Gas)",
+        "mrp":  2470,
+        "md price":  1297.244,
+        "td price":  1362.452
+    },
+    {
+        "part number":  "SGT0309-200",
+        "product code":  "2743",
+        "product name":  "Shock Absorber suitable for (HM B R V) Rear Left/Right (Gas)",
+        "mrp":  2100,
+        "md price":  1102.92,
+        "td price":  1158.36
+    },
+    {
+        "part number":  "SGM0317-102",
+        "product code":  "4999",
+        "product name":  "Shock Absorber (damper) suitable for (HM W R V)  Front Left (Gas)",
+        "mrp":  2452,
+        "md price":  1287.79,
+        "td price":  1352.523
+    },
+    {
+        "part number":  "SGM0317-103",
+        "product code":  "5000",
+        "product name":  "Shock Absorber (damper) suitable for(HM W R V)  Front Right (Gas)",
+        "mrp":  2452,
+        "md price":  1287.79,
+        "td price":  1352.523
+    },
+    {
+        "part number":  "SGM0323-102",
+        "product code":  "4289",
+        "product name":  "Shock Absorber(DAMPER) suitable for ACCORD TYPE-4  Front LEFT(GAS)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SGM0323-103",
+        "product code":  "4290",
+        "product name":  "Shock Absorber (DAMPER) suitable for ACCORD TYPE-4  Front RIGHT(GAS)",
+        "mrp":  3100,
+        "md price":  1628.12,
+        "td price":  1709.96
+    },
+    {
+        "part number":  "SGS0323-202",
+        "product code":  "4291",
+        "product name":  "Shock Absorber suitable for ACCORD TYPE-4  Rear L/R(GAS)",
+        "mrp":  2880,
+        "md price":  1512.576,
+        "td price":  1588.608
+    },
+    {
+        "part number":  "SGS1202-100",
+        "product code":  "4635",
+        "product name":  "Shock Absorber (Complete assembly) suitable for(FM Fista)  Front Lrft (Gas)",
+        "mrp":  4300,
+        "md price":  2258.36,
+        "td price":  2371.88
+    },
+    {
+        "part number":  "SGS1202-101",
+        "product code":  "4673",
+        "product name":  "Shock Absorber (Complete assembly) suitable for(FM Fista)  Front Right (Gas)",
+        "mrp":  4300,
+        "md price":  2258.36,
+        "td price":  2371.88
+    },
+    {
+        "part number":  "SGS1202-102",
+        "product code":  "3501",
+        "product name":  "Shock Absorber (Damper) suitable for(FM Fista)  Front Lrft (Gas)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SGS1202-103",
+        "product code":  "3502",
+        "product name":  "Shock Absorber (Damper) suitable for(FM Fista)  Front Right (Gas)",
+        "mrp":  2350,
+        "md price":  1234.22,
+        "td price":  1296.26
+    },
+    {
+        "part number":  "SGT1272-200",
+        "product code":  "2037",
+        "product name":  "Shock Absorber suitable for (FM Fego \u0026 Fista) Rear Left/Right (Gas)",
+        "mrp":  1600,
+        "md price":  840.32,
+        "td price":  882.56
+    },
+    {
+        "part number":  "SGM1205-100",
+        "product code":  "4633",
+        "product name":  "Shock Absorber (complete assembly) suitable for(FM EcoSprt)  Front Lrft (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM1205-101",
+        "product code":  "4634",
+        "product name":  "Shock Absorber (complete assembly) suitable for(FM EcoSprt)  Front Right (Gas)",
+        "mrp":  4530,
+        "md price":  2379.156,
+        "td price":  2498.748
+    },
+    {
+        "part number":  "SGM1205-102",
+        "product code":  "3323",
+        "product name":  "Shock Absorber (Damper) suitable for(FM EcoSprt)  Front Lrft (Gas)",
+        "mrp":  2822,
+        "md price":  1482.114,
+        "td price":  1556.615
+    },
+    {
+        "part number":  "SGM1205-103",
+        "product code":  "3324",
+        "product name":  "Shock Absorber (Damper) suitable for(FM EcoSprt)  Front Right (Gas)",
+        "mrp":  2822,
+        "md price":  1482.114,
+        "td price":  1556.615
+    },
+    {
+        "part number":  "SGT1205-200",
+        "product code":  "2924",
+        "product name":  "Shock Absorber suitable for (FM EcoSprt) Rear Left/Right (Gas)",
+        "mrp":  2100,
+        "md price":  1102.92,
+        "td price":  1158.36
+    },
+    {
+        "part number":  "SGT1204-202",
+        "product code":  "4667",
+        "product name":  "Shock Absorber suitable for (Ford Endeavour T2) Rear Left/Right (Gas)",
+        "mrp":  4285,
+        "md price":  2250.482,
+        "td price":  2363.606
+    },
+    {
+        "part number":  "SGM0905-100",
+        "product code":  "4902",
+        "product name":  "Shock Absorber (complete assembly) suitable for(RM Kwd) Front Left/Right (Gas)",
+        "mrp":  3000,
+        "md price":  1575.6,
+        "td price":  1654.8
+    },
+    {
+        "part number":  "SGM0905-102",
+        "product code":  "4887",
+        "product name":  "Shock Absorber (Damper) suitable for(RM Kwd) Front Left/Right (Gas)",
+        "mrp":  1680,
+        "md price":  882.336,
+        "td price":  926.688
+    },
+    {
+        "part number":  "SGT0905-200",
+        "product code":  "4075",
+        "product name":  "Shock Absorber suitable for (RM Kwd) Rear Left/Right (Gas)",
+        "mrp":  1250,
+        "md price":  656.5,
+        "td price":  689.5
+    },
+    {
+        "part number":  "SGM0908-100",
+        "product code":  "4598",
+        "product name":  "Shock Absorber (complete assembly) suitable for (RM Dustr  T2)  Front Left /Right (Gas)",
+        "mrp":  4600,
+        "md price":  2415.92,
+        "td price":  2537.36
+    },
+    {
+        "part number":  "SGM0908-102",
+        "product code":  "4624",
+        "product name":  "Shock Absorber (Damper) suitable for (RM Dustr  T2)  Front Left /Right (Gas)",
+        "mrp":  2600,
+        "md price":  1365.52,
+        "td price":  1434.16
+    },
+    {
+        "part number":  "SGM0901-102",
+        "product code":  "2261",
+        "product name":  "Shock Absorber (Damper) suitable for (RM Dustr4X4/4X2)  Front Left/Right (Gas)",
+        "mrp":  2650,
+        "md price":  1391.78,
+        "td price":  1461.74
+    },
+    {
+        "part number":  "SGT0901-200",
+        "product code":  "2571",
+        "product name":  "Shock Absorber suitable for (RM Dustr 4X2) Rear L/R (Gas)",
+        "mrp":  2320,
+        "md price":  1218.464,
+        "td price":  1279.712
+    },
+    {
+        "part number":  "SGT0902-202",
+        "product code":  "2262",
+        "product name":  "Shock Absorber(Damper) suitable for (RM Dustr 4X4) Rear L/R (Gas)",
+        "mrp":  4900,
+        "md price":  2573.48,
+        "td price":  2702.84
+    },
+    {
+        "part number":  "SGT0906-200",
+        "product code":  "4432",
+        "product name":  "Shock Absorber suitable for (RM Logn) Rear Left/Right (Gas)",
+        "mrp":  1900,
+        "md price":  997.88,
+        "td price":  1048.04
+    },
+    {
+        "part number":  "SGT0910-202",
+        "product code":  "5004",
+        "product name":  "Shock Absorber suitable for (RM Tribr) Rear Left/Right (Gas)",
+        "mrp":  1393,
+        "md price":  731.604,
+        "td price":  768.379
+    },
+    {
+        "part number":  "SGM0912-102",
+        "product code":  "5006",
+        "product name":  "Shock Absorber (Damper) suitable for(RM Kigr) Front LH/RH (Gas)",
+        "mrp":  2119,
+        "md price":  1112.899,
+        "td price":  1168.84
+    },
+    {
+        "part number":  "SGT0912-202",
+        "product code":  "5005",
+        "product name":  "Shock Absorber suitable for (RM Kigr) Rear Left/Right (Gas)",
+        "mrp":  1472,
+        "md price":  773.094,
+        "td price":  811.955
+    },
+    {
+        "part number":  "SGM0803-102",
+        "product code":  "4625",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Kecks) Front Left/Right (Gas)",
+        "mrp":  2700,
+        "md price":  1418.04,
+        "td price":  1489.32
+    },
+    {
+        "part number":  "SGM0802-102",
+        "product code":  "2841",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Trrano) Front Left/Right (Gas)",
+        "mrp":  3330,
+        "md price":  1748.916,
+        "td price":  1836.828
+    },
+    {
+        "part number":  "SGT0802-200",
+        "product code":  "2842",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Trrano) Rear L/R (Gas)",
+        "mrp":  2800,
+        "md price":  1470.56,
+        "td price":  1544.48
+    },
+    {
+        "part number":  "SGM0805-102",
+        "product code":  "5001",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Magnte) Front LH/RH (Gas)",
+        "mrp":  2108,
+        "md price":  1107.122,
+        "td price":  1162.773
+    },
+    {
+        "part number":  "SGT0805-202",
+        "product code":  "5003",
+        "product name":  "Shock Absorber suitable for (NM Mgnte) Rear Left/Right (Gas)",
+        "mrp":  1412,
+        "md price":  741.582,
+        "td price":  778.859
+    },
+    {
+        "part number":  "SGM0851-102",
+        "product code":  "2540",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Mcra/Suny) Front Left (Gas)",
+        "mrp":  2570,
+        "md price":  1349.764,
+        "td price":  1417.612
+    },
+    {
+        "part number":  "SGM0851-103",
+        "product code":  "2206",
+        "product name":  "Shock Absorber (Damper) suitable for (NM Mcra/Suny) Front Right (Gas)",
+        "mrp":  2570,
+        "md price":  1349.764,
+        "td price":  1417.612
+    },
+    {
+        "part number":  "SGT0851-200",
+        "product code":  "2117",
+        "product name":  "Shock Absorber suitable for (NM Mcra/Suny) Rear L/R (Gas)",
+        "mrp":  1445,
+        "md price":  758.914,
+        "td price":  797.062
+    },
+    {
+        "part number":  "SGM1901-102",
+        "product code":  "4294",
+        "product name":  "Shock Absorber(DAMPER) suitable for JEP COMPAS 4X2  Front LEFT(GAS)",
+        "mrp":  4400,
+        "md price":  2310.88,
+        "td price":  2427.04
+    },
+    {
+        "part number":  "SGM1901-103",
+        "product code":  "4295",
+        "product name":  "Shock Absorber(DAMPER) suitable for JEP COMPAS 4X2  Front RIGHT(GAS)",
+        "mrp":  4400,
+        "md price":  2310.88,
+        "td price":  2427.04
+    },
+    {
+        "part number":  "SGM1901-202",
+        "product code":  "4292",
+        "product name":  "Shock Absorber(DAMPER) suitable for JEP COMPAS 4X2  Rear LEFT(GAS)",
+        "mrp":  4040,
+        "md price":  2121.808,
+        "td price":  2228.464
+    },
+    {
+        "part number":  "SGM1901-203",
+        "product code":  "4293",
+        "product name":  "Shock Absorber(DAMPER) suitable for JEP COMPAS 4X2  Rear RIGHT(GAS)",
+        "mrp":  4040,
+        "md price":  2121.808,
+        "td price":  2228.464
+    },
+    {
+        "part number":  "SGS2002-102",
+        "product code":  "5012",
+        "product name":  "Shock Absorber(DAMPER) suitable for ISzu 4X2  Front Left/Right(GAS)",
+        "mrp":  2460,
+        "md price":  1291.992,
+        "td price":  1356.936
+    },
+    {
+        "part number":  "SGS2001-102",
+        "product code":  "5013",
+        "product name":  "Shock Absorber(DAMPER) suitable for ISzu 4X4  Front Left/Right(GAS)",
+        "mrp":  2420,
+        "md price":  1270.984,
+        "td price":  1334.872
+    },
+    {
+        "part number":  "SGM1368-102",
+        "product code":  "3503",
+        "product name":  "Shock Absorber (Damper) suitable for (Feat Pnto) Front Left (Gas)",
+        "mrp":  2840,
+        "md price":  1491.568,
+        "td price":  1566.544
+    },
+    {
+        "part number":  "SGM1368-103",
+        "product code":  "3504",
+        "product name":  "Shock Absorber (Damper) suitable for (Feat Pnto) Front Right (Gas)",
+        "mrp":  2840,
+        "md price":  1491.568,
+        "td price":  1566.544
+    },
+    {
+        "part number":  "SGT1386-200",
+        "product code":  "2181",
+        "product name":  "Shock Absorber suitable for (Feat Pnto) Rear L/R (Gas)",
+        "mrp":  1400,
+        "md price":  735.28,
+        "td price":  772.24
+    },
+    {
+        "part number":  "SGM0209-102",
+        "product code":  "4321",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV-5OO TYPE 1) Front Left (Gas)",
+        "mrp":  3400,
+        "md price":  1785.68,
+        "td price":  1875.44
+    },
+    {
+        "part number":  "SGM0209-103",
+        "product code":  "4322",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV-5OO TYPE 1) Front Right (Gas)",
+        "mrp":  3400,
+        "md price":  1785.68,
+        "td price":  1875.44
+    },
+    {
+        "part number":  "SGS0209-202",
+        "product code":  "4819",
+        "product name":  "Shock Absorber suitable for (MM XUV 5OO type 1) Rear L/R (Gas)",
+        "mrp":  2400,
+        "md price":  1260.48,
+        "td price":  1323.84
+    },
+    {
+        "part number":  "SGM0211-102",
+        "product code":  "4323",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV-5OO TYPE 2) Front Left (Gas)",
+        "mrp":  3950,
+        "md price":  2074.54,
+        "td price":  2178.82
+    },
+    {
+        "part number":  "SGM0211-103",
+        "product code":  "4324",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV-5OO TYPE 2) Front Right (Gas)",
+        "mrp":  3950,
+        "md price":  2074.54,
+        "td price":  2178.82
+    },
+    {
+        "part number":  "SGS0211-202",
+        "product code":  "4325",
+        "product name":  "Shock Absorber suitable for (MM XUV 5OO type 2) Rear L/R (Gas)",
+        "mrp":  2500,
+        "md price":  1313,
+        "td price":  1379
+    },
+    {
+        "part number":  "SGM0219-102",
+        "product code":  "4955",
+        "product name":  "Shock Absorber (Damper) suitable for (XUV 7OO) Front Left Gas",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGM0219-103",
+        "product code":  "4956",
+        "product name":  "Shock Absorber (Damper) suitable for (XUV 7OO) Front Right Gas",
+        "mrp":  4120,
+        "md price":  2163.824,
+        "td price":  2272.592
+    },
+    {
+        "part number":  "SGM0221-102",
+        "product code":  "5042",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV3OO) Front Left (Gas)",
+        "mrp":  2494,
+        "md price":  1309.849,
+        "td price":  1375.69
+    },
+    {
+        "part number":  "SGM0221-103",
+        "product code":  "5043",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV3OO) Front Right (Gas)",
+        "mrp":  2494,
+        "md price":  1309.849,
+        "td price":  1375.69
+    },
+    {
+        "part number":  "SGT0221-200",
+        "product code":  "4991",
+        "product name":  "Shock Absorber suitable for (MM XUV3OO) Rear L/R (Gas)",
+        "mrp":  1580,
+        "md price":  829.816,
+        "td price":  871.528
+    },
+    {
+        "part number":  "SGM0223-102",
+        "product code":  "5044",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV 3X0) Front Left (Gas)",
+        "mrp":  2525,
+        "md price":  1326.13,
+        "td price":  1392.79
+    },
+    {
+        "part number":  "SGM0223-103",
+        "product code":  "5045",
+        "product name":  "Shock Absorber (Damper) suitable for (MM XUV 3X0) Front Right (Gas)",
+        "mrp":  2525,
+        "md price":  1326.13,
+        "td price":  1392.79
+    },
+    {
+        "part number":  "SGT0223-200",
+        "product code":  "5050",
+        "product name":  "Shock Absorber suitable for (MM XUV 3X0) Rear L/R (Gas)",
+        "mrp":  1600,
+        "md price":  840.32,
+        "td price":  882.56
+    },
+    {
+        "part number":  "SGM2101-102",
+        "product code":  "4957",
+        "product name":  "Shock Absorber (Damper) suitable for (HECT0R) Front Left Gas",
+        "mrp":  3924,
+        "md price":  2060.885,
+        "td price":  2164.478
+    },
+    {
+        "part number":  "SGM2101-103",
+        "product code":  "4958",
+        "product name":  "Shock Absorber (Damper) suitable for (HECT0R) Front Right Gas",
+        "mrp":  3924,
+        "md price":  2060.885,
+        "td price":  2164.478
+    },
+    {
+        "part number":  "SGT0205-100",
+        "product code":  "3137",
+        "product name":  "Shock Absorber suitable for (MM SCORPEO mHawk 2WD) Front L/R (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGS0213-102",
+        "product code":  "4874",
+        "product name":  "SCORPIO 3RD GEN 2.2L S10 2WD MT Front Shock absorber",
+        "mrp":  1933,
+        "md price":  1015.212,
+        "td price":  1066.243
+    },
+    {
+        "part number":  "SGS0214-102",
+        "product code":  "4875",
+        "product name":  "SCORPIO 3RD GEN 2.2L S10 4WD MT Front Shock Absorber",
+        "mrp":  2095,
+        "md price":  1100.294,
+        "td price":  1155.602
+    },
+    {
+        "part number":  "SGT0206-200",
+        "product code":  "4676",
+        "product name":  "Shock Absorber suitable for (SCORPEO XOS) Rear L/R (Gas)",
+        "mrp":  1580,
+        "md price":  829.816,
+        "td price":  871.528
+    },
+    {
+        "part number":  "SGT0207-200",
+        "product code":  "4677",
+        "product name":  "Shock Absorber suitable for (Xyl0) Rear L/R (Gas)",
+        "mrp":  1275,
+        "md price":  669.63,
+        "td price":  703.29
+    },
+    {
+        "part number":  "SHT0201-100",
+        "product code":  "2162",
+        "product name":  "Shock Absorber suitable for (MM BLRO ) Front L/R (Oil)",
+        "mrp":  1000,
+        "md price":  525.2,
+        "td price":  551.6
+    },
+    {
+        "part number":  "SHT0201-200",
+        "product code":  "2163",
+        "product name":  "Shock Absorber suitable for (MM BLRO ) Rear L/R (Oil)",
+        "mrp":  800,
+        "md price":  420.16,
+        "td price":  441.28
+    },
+    {
+        "part number":  "SHT0202-100",
+        "product code":  "4768",
+        "product name":  "Shock Absorber suitable for (MM BLRO Pickup ) Front L/R (Oil)",
+        "mrp":  1020,
+        "md price":  535.704,
+        "td price":  562.632
+    },
+    {
+        "part number":  "SHT0202-200",
+        "product code":  "4769",
+        "product name":  "Shock Absorber suitable for (MM BLRO Pickup) Rear L/R (Oil)",
+        "mrp":  1050,
+        "md price":  551.46,
+        "td price":  579.18
+    },
+    {
+        "part number":  "SHT0205-100",
+        "product code":  "2258",
+        "product name":  "Shock Absorber suitable for (MM JEP ) Rear Left/Right (Gas)",
+        "mrp":  600,
+        "md price":  315.12,
+        "td price":  330.96
+    },
+    {
+        "part number":  "SGT0215-200",
+        "product code":  "4453",
+        "product name":  "Shock Absorber suitable for (MM VRITO ) Rear Left/Right (Gas)",
+        "mrp":  1935,
+        "md price":  1016.262,
+        "td price":  1067.346
+    },
+    {
+        "part number":  "SGT0216-200",
+        "product code":  "4454",
+        "product name":  "Shock Absorber suitable for (MM E-VRITO ) Rear Left/Right (Gas)",
+        "mrp":  2030,
+        "md price":  1066.156,
+        "td price":  1119.748
+    },
+    {
+        "part number":  "SGT1401-100",
+        "product code":  "4311",
+        "product name":  "Shock Absorber suitable for MISTSULEISHI-PAJERO  Front L/R(GAS)",
+        "mrp":  2050,
+        "md price":  1076.66,
+        "td price":  1130.78
+    },
+    {
+        "part number":  "SGT1401-200",
+        "product code":  "4312",
+        "product name":  "Shock Absorber suitable for MISTSULEISHI-PAJERO  Rear L/R(GAS)",
+        "mrp":  2180,
+        "md price":  1144.936,
+        "td price":  1202.488
+    },
+    {
+        "part number":  "SGS1402-102",
+        "product code":  "4315",
+        "product name":  "Shock Absorber suitable for PAJERO SPORTS  Front L/R(GAS)",
+        "mrp":  3550,
+        "md price":  1864.46,
+        "td price":  1958.18
+    },
+    {
+        "part number":  "SGT1402-200",
+        "product code":  "4316",
+        "product name":  "Shock Absorber suitable for PAJERO SPORTS Rear L/R(GAS)",
+        "mrp":  3320,
+        "md price":  1743.664,
+        "td price":  1831.312
+    },
+    {
+        "part number":  "SHT1101-100",
+        "product code":  "2160",
+        "product name":  "Shock Absorber suitable for (TM AC) Front L/R (Oil)",
+        "mrp":  1040,
+        "md price":  546.208,
+        "td price":  573.664
+    },
+    {
+        "part number":  "SHT1101-200",
+        "product code":  "2161",
+        "product name":  "Shock Absorber suitable for (TM AC) Rear L/R (Oil)",
+        "mrp":  1065,
+        "md price":  559.338,
+        "td price":  587.454
+    },
+    {
+        "part number":  "SGT1120-200",
+        "product code":  "4626",
+        "product name":  "Shock Absorber suitable for (TM Blt) Rear Left/Right (Gas)",
+        "mrp":  1870,
+        "md price":  982.124,
+        "td price":  1031.492
+    },
+    {
+        "part number":  "SGM1122-102",
+        "product code":  "4853",
+        "product name":  "Shock Absorber(Damper) suitable for (TM Altrz) Front Left (Gas)",
+        "mrp":  2200,
+        "md price":  1155.44,
+        "td price":  1213.52
+    },
+    {
+        "part number":  "SGM1122-103",
+        "product code":  "4854",
+        "product name":  "Shock Absorber (Damper)suitable for (TM Altrz) Front Right (Gas)",
+        "mrp":  2200,
+        "md price":  1155.44,
+        "td price":  1213.52
+    },
+    {
+        "part number":  "SGT1122-200",
+        "product code":  "4627",
+        "product name":  "Shock Absorber suitable for (TM Altrz) Rear Left/Right (Gas)",
+        "mrp":  1950,
+        "md price":  1024.14,
+        "td price":  1075.62
+    },
+    {
+        "part number":  "SGM1114-100",
+        "product code":  "4928",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM Nxon) Front Left (P) (Gas)",
+        "mrp":  4707,
+        "md price":  2472.116,
+        "td price":  2596.381
+    },
+    {
+        "part number":  "SGM1114-101",
+        "product code":  "4929",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM Nxon) Front Right (P) (Gas)",
+        "mrp":  4707,
+        "md price":  2472.116,
+        "td price":  2596.381
+    },
+    {
+        "part number":  "SGM1114-102",
+        "product code":  "4893",
+        "product name":  "Shock Absorber(Damper) suitable for (TM Nxon) Front Left (Gas)",
+        "mrp":  2535,
+        "md price":  1331.382,
+        "td price":  1398.306
+    },
+    {
+        "part number":  "SGM1114-103",
+        "product code":  "4894",
+        "product name":  "Shock Absorber(Damper) suitable for (TM Nxon) Front Right (Gas)",
+        "mrp":  2535,
+        "md price":  1331.382,
+        "td price":  1398.306
+    },
+    {
+        "part number":  "SGT1114-200",
+        "product code":  "4451",
+        "product name":  "Shock Absorber suitable for (TM Nxon) Rear Left/Right (Gas)",
+        "mrp":  2100,
+        "md price":  1102.92,
+        "td price":  1158.36
+    },
+    {
+        "part number":  "SGM1112-100",
+        "product code":  "4704",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM TIGO/TGOR(D)) Front Left (Gas)",
+        "mrp":  4290,
+        "md price":  2253.108,
+        "td price":  2366.364
+    },
+    {
+        "part number":  "SGM1112-101",
+        "product code":  "4705",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM TIGO/TGOR(D)) Front Right (Gas)",
+        "mrp":  4290,
+        "md price":  2253.108,
+        "td price":  2366.364
+    },
+    {
+        "part number":  "SGM1111-100",
+        "product code":  "4670",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM TIGO/TGOR(P)) Front Left (Gas)",
+        "mrp":  4470,
+        "md price":  2347.644,
+        "td price":  2465.652
+    },
+    {
+        "part number":  "SGM1111-101",
+        "product code":  "4672",
+        "product name":  "Shock Absorber (complete assembly) suitable for  (TM TIGO/TGOR(P)) Front Right (Gas)",
+        "mrp":  4470,
+        "md price":  2347.644,
+        "td price":  2465.652
+    },
+    {
+        "part number":  "SGM1111-102",
+        "product code":  "4560",
+        "product name":  "Shock Absorber(Damper) suitable for (TM TIGO/TGOR) Front Left (Gas)",
+        "mrp":  2120,
+        "md price":  1113.424,
+        "td price":  1169.392
+    },
+    {
+        "part number":  "SGM1111-103",
+        "product code":  "4561",
+        "product name":  "Shock Absorber (Damper)suitable for (TM TIGO/TGOR) Front Right (Gas)",
+        "mrp":  2120,
+        "md price":  1113.424,
+        "td price":  1169.392
+    },
+    {
+        "part number":  "SGS1111-202",
+        "product code":  "4741",
+        "product name":  "Shock Absorber suitable for (TM TIGO/TGOR) Rear Left/Right (Gas)",
+        "mrp":  1890,
+        "md price":  992.628,
+        "td price":  1042.524
+    },
+    {
+        "part number":  "SGM1116-102",
+        "product code":  "4881",
+        "product name":  "Shock Absorber (Damper) suitable for  (TM Harier) Front Left (Gas)",
+        "mrp":  3550,
+        "md price":  1864.46,
+        "td price":  1958.18
+    },
+    {
+        "part number":  "SGM1116-103",
+        "product code":  "4882",
+        "product name":  "Shock Absorber (Damper) suitable for  (TM Harier) Front Right (Gas)",
+        "mrp":  3550,
+        "md price":  1864.46,
+        "td price":  1958.18
+    },
+    {
+        "part number":  "SHM0101-106",
+        "product code":  "1686",
+        "product name":  "Bush kit (major) suitable for (MS Car 800 CC) Front Left/Right",
+        "mrp":  258,
+        "md price":  135.502,
+        "td price":  142.313
+    },
+    {
+        "part number":  "SHM0104-106",
+        "product code":  "1616",
+        "product name":  "Bush kit (major) suitable for (MS ALT Old) Front Left/Right",
+        "mrp":  258,
+        "md price":  135.502,
+        "td price":  142.313
+    },
+    {
+        "part number":  "SHM0102-106",
+        "product code":  "1621",
+        "product name":  "Bush kit (major) suitable for (MS Zn Old) Front Left/Right",
+        "mrp":  348,
+        "md price":  182.77,
+        "td price":  191.957
+    },
+    {
+        "part number":  "SHM0106-106",
+        "product code":  "1622",
+        "product name":  "Bush kit (major) suitable for (MS WGN R Old) Front Left/Right",
+        "mrp":  370,
+        "md price":  194.324,
+        "td price":  204.092
+    },
+    {
+        "part number":  "SGM0107-106",
+        "product code":  "2845",
+        "product name":  "Bush kit (major) suitable for (MS WGN R Type IV) Front Left/Right",
+        "mrp":  574,
+        "md price":  301.465,
+        "td price":  316.618
+    },
+    {
+        "part number":  "SGM0110-106",
+        "product code":  "4912",
+        "product name":  "Bush kit (major) suitable for (MS Astar) Front Left/Right",
+        "mrp":  849,
+        "md price":  445.895,
+        "td price":  468.308
+    },
+    {
+        "part number":  "SGM0110-107",
+        "product code":  "4913",
+        "product name":  "Bush kit (minor) suitable for (MS Astar) Front Left/Right",
+        "mrp":  556,
+        "md price":  292.011,
+        "td price":  306.69
+    },
+    {
+        "part number":  "SGM0111-106",
+        "product code":  "4903",
+        "product name":  "Bush kit (major) suitable for (MS Clerio- Petrol/CNG) Front Left/Right",
+        "mrp":  849,
+        "md price":  445.895,
+        "td price":  468.308
+    },
+    {
+        "part number":  "SGM0111-107",
+        "product code":  "4904",
+        "product name":  "Bush kit (minor) suitable for (MS Clerio- Petrol/CNG) Front Left/Right",
+        "mrp":  556,
+        "md price":  292.011,
+        "td price":  306.69
+    },
+    {
+        "part number":  "SHM0114-106",
+        "product code":  "2846",
+        "product name":  "Bush kit (major) suitable for (MS MS Eco Type-1 \u0026 Type -2) Front Left/Right",
+        "mrp":  390,
+        "md price":  204.828,
+        "td price":  215.124
+    },
+    {
+        "part number":  "SGM0121-106",
+        "product code":  "4906",
+        "product name":  "Bush kit (major) suitable for (MS Balno 2nd Gen.-Petrol) Front Left/Right",
+        "mrp":  586,
+        "md price":  307.767,
+        "td price":  323.238
+    },
+    {
+        "part number":  "SGM0121-107",
+        "product code":  "4907",
+        "product name":  "Bush kit (minor) suitable for (MS Balno 2nd Gen.-Petrol) Front Left/Right",
+        "mrp":  365,
+        "md price":  191.698,
+        "td price":  201.334
+    },
+    {
+        "part number":  "SHM0125-107",
+        "product code":  "1636",
+        "product name":  "Bush kit (minor) suitable for (MS SWFT Old(P\u0026D)) Front Left/Right",
+        "mrp":  472,
+        "md price":  247.894,
+        "td price":  260.355
+    },
+    {
+        "part number":  "SHM0125-106",
+        "product code":  "1548",
+        "product name":  "Bush kit (major) suitable for (MS SWFT Old(P\u0026D)) Front Left/Right",
+        "mrp":  819,
+        "md price":  430.139,
+        "td price":  451.76
+    },
+    {
+        "part number":  "SGM0127-107",
+        "product code":  "1601",
+        "product name":  "Bush kit (minor) suitable for (MS SWFT New / Dzir (P \u0026 D)) Front Left/Right",
+        "mrp":  400,
+        "md price":  210.08,
+        "td price":  220.64
+    },
+    {
+        "part number":  "SGM0127-106",
+        "product code":  "1623",
+        "product name":  "Bush kit (major) suitable for (MS SWFT New / Dzir (P \u0026 D)) Front Left/Right",
+        "mrp":  778,
+        "md price":  408.606,
+        "td price":  429.145
+    },
+    {
+        "part number":  "SGM0303-106",
+        "product code":  "2881",
+        "product name":  "Bush kit (major) suitable for (HM Amaz/Breo) Front Left/Right",
+        "mrp":  1248,
+        "md price":  655.45,
+        "td price":  688.397
+    },
+    {
+        "part number":  "SGM0303-107",
+        "product code":  "2882",
+        "product name":  "Bush kit (minor) suitable for (HM Amaz/Breo) Front Left/Right",
+        "mrp":  767,
+        "md price":  402.828,
+        "td price":  423.077
+    },
+    {
+        "part number":  "SGM0305-106",
+        "product code":  "2996",
+        "product name":  "Bush kit (major) suitable for (HM Jaz) Front Left/Right",
+        "mrp":  1248,
+        "md price":  655.45,
+        "td price":  688.397
+    },
+    {
+        "part number":  "SGM0305-107",
+        "product code":  "2997",
+        "product name":  "Bush kit (minor) suitable for (HM Jaz) Front Left/Right",
+        "mrp":  819,
+        "md price":  430.139,
+        "td price":  451.76
+    },
+    {
+        "part number":  "SGM0307-106",
+        "product code":  "2999",
+        "product name":  "Bush kit (major) suitable for (HM Mobelio) Front Left/Right",
+        "mrp":  1227,
+        "md price":  644.42,
+        "td price":  676.813
+    },
+    {
+        "part number":  "SGM0307-107",
+        "product code":  "3000",
+        "product name":  "Bush kit (minor) suitable for (HM Mobelio) Front Left/Right",
+        "mrp":  809,
+        "md price":  424.887,
+        "td price":  446.244
+    },
+    {
+        "part number":  "SHM0101-108",
+        "product code":  "1507",
+        "product name":  "Top Mount suitable for (MS CAR800) Front damper Left/Right",
+        "mrp":  103,
+        "md price":  54.096,
+        "td price":  56.815
+    },
+    {
+        "part number":  "SGM0105-108",
+        "product code":  "1610",
+        "product name":  "Top Mount suitable for (MS ALT /  ALT K10 / ALT 800) Front damper Left/Right",
+        "mrp":  100,
+        "md price":  52.52,
+        "td price":  55.16
+    },
+    {
+        "part number":  "SHM0102-108",
+        "product code":  "1517",
+        "product name":  "Top Mount suitable for (MS ZN / WGN R) Front damper Left/Right",
+        "mrp":  100,
+        "md price":  52.52,
+        "td price":  55.16
+    },
+    {
+        "part number":  "SGM0107-108",
+        "product code":  "1531",
+        "product name":  "Top Mount suitable for (MS WGN R Type IV) Front damper Left/Right",
+        "mrp":  170,
+        "md price":  89.284,
+        "td price":  93.772
+    },
+    {
+        "part number":  "SGM0110-108",
+        "product code":  "4914",
+        "product name":  "Top Mount suitable for (MS Astar) Front damper Left/Right",
+        "mrp":  384,
+        "md price":  201.677,
+        "td price":  211.814
+    },
+    {
+        "part number":  "SGM0111-108",
+        "product code":  "4905",
+        "product name":  "Top Mount suitable for (MS Clerio- Petrol/CNG) Front damper Left/Right",
+        "mrp":  384,
+        "md price":  201.677,
+        "td price":  211.814
+    },
+    {
+        "part number":  "SGM0121-108",
+        "product code":  "4908",
+        "product name":  "Top Mount suitable for (MS Balno 2nd Gen.-Petrol) Front damper Left/Right",
+        "mrp":  324,
+        "md price":  170.165,
+        "td price":  178.718
+    },
+    {
+        "part number":  "SGM0127-108",
+        "product code":  "1572",
+        "product name":  "Top Mount suitable for (MS New SWFT / Ertiga) Front damper Left/Right",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "SHM0125-108",
+        "product code":  "1549",
+        "product name":  "Top Mount suitable for (MS SWFT) Front damper Left/Right",
+        "mrp":  338,
+        "md price":  177.518,
+        "td price":  186.441
+    },
+    {
+        "part number":  "SGM0303-108",
+        "product code":  "2883",
+        "product name":  "Top Mount suitable for (HM AMAZ/Breo) Front damper Left/Right",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "SGM0305-108",
+        "product code":  "2998",
+        "product name":  "Top Mount suitable for (HM Jaz) Front damper Left/Right",
+        "mrp":  461,
+        "md price":  242.117,
+        "td price":  254.288
+    },
+    {
+        "part number":  "SGM0307-108",
+        "product code":  "3001",
+        "product name":  "Top Mount suitable for (HM Mobelio) Front damper Left/Right",
+        "mrp":  482,
+        "md price":  253.146,
+        "td price":  265.871
+    },
+    {
+        "part number":  "GS0101-200",
+        "product code":  "2093",
+        "product name":  "Gas Spring suitable for (MS Car 800) L/R",
+        "mrp":  358,
+        "md price":  188.022,
+        "td price":  197.473
+    },
+    {
+        "part number":  "GS0102-201",
+        "product code":  "2094",
+        "product name":  "Gas Spring suitable for (MS ZN) R",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0102-200",
+        "product code":  "2095",
+        "product name":  "Gas Spring suitable for (MS ZN) L",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0103-201",
+        "product code":  "2100",
+        "product name":  "Gas Spring suitable for (MS  ZN Estilo) R",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0103-200",
+        "product code":  "2168",
+        "product name":  "Gas Spring suitable for (MS ZN Estilo) L",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0104-201",
+        "product code":  "2096",
+        "product name":  "Gas Spring suitable for (MS ALT Old) R",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0104-200",
+        "product code":  "2097",
+        "product name":  "Gas Spring suitable for (MS ALT Old) L",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0106-201",
+        "product code":  "2098",
+        "product name":  "Gas Spring suitable for (MS WGN R Old) R",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0106-200",
+        "product code":  "2099",
+        "product name":  "Gas Spring suitable for (MS WGN R Old) L",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0107-201",
+        "product code":  "1687",
+        "product name":  "Gas Spring suitable for (MS WGN R New) R",
+        "mrp":  472,
+        "md price":  247.894,
+        "td price":  260.355
+    },
+    {
+        "part number":  "GS0107-200",
+        "product code":  "1689",
+        "product name":  "Gas Spring suitable for (MS WGN R New) L",
+        "mrp":  472,
+        "md price":  247.894,
+        "td price":  260.355
+    },
+    {
+        "part number":  "GS0139-200",
+        "product code":  "4233",
+        "product name":  "Gas Spring Suitable for (MS WGN-R 3RD GEN..) LH/RH",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0108-200",
+        "product code":  "2063",
+        "product name":  "Gas Spring suitable for (MS ALT 800) L/R",
+        "mrp":  405,
+        "md price":  212.706,
+        "td price":  223.398
+    },
+    {
+        "part number":  "GS0110-200",
+        "product code":  "4224",
+        "product name":  "Gas Spring Suitable for (MS Astar GS) LH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0110-201",
+        "product code":  "4226",
+        "product name":  "Gas Spring Suitable for (MS Astar GS) RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0111-200",
+        "product code":  "2059",
+        "product name":  "Gas Spring suitable for (MS Clerio) L/R",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0113-200",
+        "product code":  "4225",
+        "product name":  "Gas Spring Suitable for (MS ALT K-10) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0114-201",
+        "product code":  "2169",
+        "product name":  "Gas Spring suitable for (MS Eco/Vrsa) R",
+        "mrp":  482,
+        "md price":  253.146,
+        "td price":  265.871
+    },
+    {
+        "part number":  "GS0114-200",
+        "product code":  "2170",
+        "product name":  "Gas Spring suitable for (MS Eco/Vrsa) L",
+        "mrp":  482,
+        "md price":  253.146,
+        "td price":  265.871
+    },
+    {
+        "part number":  "GS0115-200",
+        "product code":  "2071",
+        "product name":  "Gas Spring suitable for (MS Ertega) L/R",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "GS0118-200",
+        "product code":  "2092",
+        "product name":  "Gas Spring suitable for (MS Omnee Van) L/R",
+        "mrp":  348,
+        "md price":  182.77,
+        "td price":  191.957
+    },
+    {
+        "part number":  "GS0119-200",
+        "product code":  "2070",
+        "product name":  "Gas Spring suitable for (MS Retz) L/R",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0121-200",
+        "product code":  "4230",
+        "product name":  "Gas Spring Suitable for (MS BALNO) LH/RH",
+        "mrp":  390,
+        "md price":  204.828,
+        "td price":  215.124
+    },
+    {
+        "part number":  "GS0125-200",
+        "product code":  "2067",
+        "product name":  "Gas Spring suitable for (MS SWFT Old) L/R",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0127-200",
+        "product code":  "2057",
+        "product name":  "Gas Spring suitable for (MS New SWFT) L/R",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0131-200",
+        "product code":  "4231",
+        "product name":  "Gas Spring Suitable for (MS S-CROS) LH/RH",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0133-200",
+        "product code":  "4228",
+        "product name":  "Gas Spring Suitable for (MS BREZA) LH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0133-201",
+        "product code":  "4229",
+        "product name":  "Gas Spring Suitable for (MS BREZA) RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0137-200",
+        "product code":  "4227",
+        "product name":  "Gas Spring Suitable for (MS IGNS) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0138-200",
+        "product code":  "4232",
+        "product name":  "Gas Spring Suitable for (MS SPRESO) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0401-200",
+        "product code":  "4234",
+        "product name":  "Gas Spring Suitable for (HY GTZ) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0437-201",
+        "product code":  "2105",
+        "product name":  "Gas Spring suitable for (HY SNTRO Xng) R",
+        "mrp":  424,
+        "md price":  222.685,
+        "td price":  233.878
+    },
+    {
+        "part number":  "GS0437-200",
+        "product code":  "2106",
+        "product name":  "Gas Spring suitable for (HY SNTRO Xng) L",
+        "mrp":  424,
+        "md price":  222.685,
+        "td price":  233.878
+    },
+    {
+        "part number":  "GS0441-201",
+        "product code":  "2113",
+        "product name":  "Gas Spring suitable for (HY SNTRO ZP Old ) R",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0441-200",
+        "product code":  "2114",
+        "product name":  "Gas Spring suitable for (HY SNTRO ZP Old ) L",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0442-200",
+        "product code":  "1717",
+        "product name":  "Gas Spring suitable for (HY I1O) L/R",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0405-200",
+        "product code":  "4236",
+        "product name":  "Gas Spring Suitable for (HY I-1O GRND) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0443-200",
+        "product code":  "1719",
+        "product name":  "Gas Spring suitable for (HY I2O) L/R",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0409-200",
+        "product code":  "4235",
+        "product name":  "Gas Spring Suitable for (HY I-2O ELIT) LH/RH",
+        "mrp":  461,
+        "md price":  242.117,
+        "td price":  254.288
+    },
+    {
+        "part number":  "GS0447-200",
+        "product code":  "2104",
+        "product name":  "Gas Spring suitable for (HY E0N) L/R",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0411-200",
+        "product code":  "4237",
+        "product name":  "Gas Spring Suitable for (HY CRTA) LH/RH",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "GS0413-100",
+        "product code":  "4238",
+        "product name":  "Gas Spring Suitable for (HY CNTA FE /BONNET) LH/RH",
+        "mrp":  1535,
+        "md price":  806.182,
+        "td price":  846.706
+    },
+    {
+        "part number":  "GS0535-201",
+        "product code":  "2107",
+        "product name":  "Gas Spring suitable for (TK Inova) R",
+        "mrp":  534,
+        "md price":  280.457,
+        "td price":  294.554
+    },
+    {
+        "part number":  "GS0535-200",
+        "product code":  "2108",
+        "product name":  "Gas Spring suitable for (TK Inova) L",
+        "mrp":  534,
+        "md price":  280.457,
+        "td price":  294.554
+    },
+    {
+        "part number":  "GS0501-200",
+        "product code":  "2664",
+        "product name":  "Gas Spring suitable for TK Qulis LH",
+        "mrp":  646,
+        "md price":  339.279,
+        "td price":  356.334
+    },
+    {
+        "part number":  "GS0501-201",
+        "product code":  "2665",
+        "product name":  "Gas Spring suitable for TK Qulis RH",
+        "mrp":  646,
+        "md price":  339.279,
+        "td price":  356.334
+    },
+    {
+        "part number":  "GS0507-200",
+        "product code":  "4248",
+        "product name":  "Gas Spring Suitable for (TK INOVA CRYSTA TAIL GATE) LH/RH",
+        "mrp":  503,
+        "md price":  264.176,
+        "td price":  277.455
+    },
+    {
+        "part number":  "GS0508-200",
+        "product code":  "4245",
+        "product name":  "Gas Spring Suitable for (TK FORTUNER TAIL GATE) LH",
+        "mrp":  491,
+        "md price":  257.873,
+        "td price":  270.836
+    },
+    {
+        "part number":  "GS0508-201",
+        "product code":  "4246",
+        "product name":  "Gas Spring Suitable for (TK FORTUNR TAIL GATE) RH",
+        "mrp":  491,
+        "md price":  257.873,
+        "td price":  270.836
+    },
+    {
+        "part number":  "GS0592-200",
+        "product code":  "4247",
+        "product name":  "Gas Spring Suitable for (TK ETOS) LH/RH",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS1386-200",
+        "product code":  "2109",
+        "product name":  "Gas Spring suitable for (FEAT Pnto) L/R",
+        "mrp":  400,
+        "md price":  210.08,
+        "td price":  220.64
+    },
+    {
+        "part number":  "GS1387-200",
+        "product code":  "2110",
+        "product name":  "Gas Spring suitable for (FEAT Lenea) L/R",
+        "mrp":  400,
+        "md price":  210.08,
+        "td price":  220.64
+    },
+    {
+        "part number":  "GS1102-200",
+        "product code":  "2616",
+        "product name":  "Gas Spring suitable for TM indeca LH/RH",
+        "mrp":  329,
+        "md price":  172.791,
+        "td price":  181.476
+    },
+    {
+        "part number":  "GS1104-200",
+        "product code":  "2614",
+        "product name":  "Gas Spring suitable for TM Vesta  LH",
+        "mrp":  379,
+        "md price":  199.051,
+        "td price":  209.056
+    },
+    {
+        "part number":  "GS1104-201",
+        "product code":  "2615",
+        "product name":  "Gas Spring suitable for  TM Vesta  RH",
+        "mrp":  379,
+        "md price":  199.051,
+        "td price":  209.056
+    },
+    {
+        "part number":  "GS1105-100",
+        "product code":  "4239",
+        "product name":  "Gas Spring Suitable for (TM SAFARE BONNET) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS1106-200",
+        "product code":  "4240",
+        "product name":  "Gas Spring Suitable for (TM SAFARE STORME) LH/RH",
+        "mrp":  461,
+        "md price":  242.117,
+        "td price":  254.288
+    },
+    {
+        "part number":  "GS1111-200",
+        "product code":  "4241",
+        "product name":  "Gas Spring Suitable for (TM TIGO) LH/RH",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS1115-200",
+        "product code":  "4243",
+        "product name":  "Gas Spring Suitable for (TM NXON TAIL GATE) LH/RH",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS1116-200",
+        "product code":  "4242",
+        "product name":  "Gas Spring Suitable for (TM  HARIER) LH/RH",
+        "mrp":  512,
+        "md price":  268.902,
+        "td price":  282.419
+    },
+    {
+        "part number":  "GS1119-200",
+        "product code":  "4244",
+        "product name":  "Gas Spring Suitable for (TM MOVUS -SAFARE STORME 2.2) LH/RH",
+        "mrp":  521,
+        "md price":  273.629,
+        "td price":  287.384
+    },
+    {
+        "part number":  "GS0209-200",
+        "product code":  "4249",
+        "product name":  "Gas Spring Suitable for (MM XUV-5OO) LH/RH",
+        "mrp":  441,
+        "md price":  231.613,
+        "td price":  243.256
+    },
+    {
+        "part number":  "GS0209-100",
+        "product code":  "4250",
+        "product name":  "Gas Spring Suitable for (MM XUV-5OO BONNET) LH/RH",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0210-200",
+        "product code":  "4251",
+        "product name":  "Gas Spring Suitable for (MM SCORPEO /S10 TAIL GATE) LH/RH",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS1501-200",
+        "product code":  "4256",
+        "product name":  "Gas Spring Suitable for (DM DTSON GO) LH/RH",
+        "mrp":  358,
+        "md price":  188.022,
+        "td price":  197.473
+    },
+    {
+        "part number":  "GS0901-100",
+        "product code":  "4259",
+        "product name":  "Gas Spring Suitable for (RM DUSTR BONNET) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0901-200",
+        "product code":  "4260",
+        "product name":  "Gas Spring Suitable for (Renault DUSTR ) LH/RH",
+        "mrp":  390,
+        "md price":  204.828,
+        "td price":  215.124
+    },
+    {
+        "part number":  "GS0905-200",
+        "product code":  "4258",
+        "product name":  "Gas Spring Suitable for (Renault KWD) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0906-200",
+        "product code":  "4261",
+        "product name":  "Gas Spring Suitable for (Renault LOGY) LH/RH",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "GS0906-100",
+        "product code":  "4262",
+        "product name":  "Gas Spring Suitable for (Renault LOGY BONNET) LH/RH",
+        "mrp":  512,
+        "md price":  268.902,
+        "td price":  282.419
+    },
+    {
+        "part number":  "GS0851-200",
+        "product code":  "4267",
+        "product name":  "Gas Spring Suitable for (NM MCRA ) LH/RH",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "GS0802-200",
+        "product code":  "4268",
+        "product name":  "Gas Spring Suitable for (NM TRRANO) LH/RH",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS0802-100",
+        "product code":  "4269",
+        "product name":  "Gas Spring Suitable for (NM TRRANO BONNET) LH/RH",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS0803-200",
+        "product code":  "4270",
+        "product name":  "Gas Spring Suitable for (NM KECKS) LH/RH",
+        "mrp":  461,
+        "md price":  242.117,
+        "td price":  254.288
+    },
+    {
+        "part number":  "GS0804-200",
+        "product code":  "4271",
+        "product name":  "Gas Spring Suitable for (NM MGNITE) LH/RH",
+        "mrp":  482,
+        "md price":  253.146,
+        "td price":  265.871
+    },
+    {
+        "part number":  "GS0638-200",
+        "product code":  "1721",
+        "product name":  "Gas Spring suitable for (V.W P0l0) L/R",
+        "mrp":  431,
+        "md price":  226.361,
+        "td price":  237.74
+    },
+    {
+        "part number":  "GS1272-200",
+        "product code":  "1723",
+        "product name":  "Gas Spring suitable for (FM Fego) L/R",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS1205-200",
+        "product code":  "4257",
+        "product name":  "Gas Spring Suitable for (FM ECOSPRT) LH/RH",
+        "mrp":  400,
+        "md price":  210.08,
+        "td price":  220.64
+    },
+    {
+        "part number":  "GS1001-200",
+        "product code":  "2617",
+        "product name":  "Gas Spring suitable for CH Sprk LH/RH",
+        "mrp":  358,
+        "md price":  188.022,
+        "td price":  197.473
+    },
+    {
+        "part number":  "GS10103-200",
+        "product code":  "2111",
+        "product name":  "Gas Spring suitable for (CH Beet) L/R",
+        "mrp":  420,
+        "md price":  220.584,
+        "td price":  231.672
+    },
+    {
+        "part number":  "GS1036-200",
+        "product code":  "4263",
+        "product name":  "Gas Spring Suitable for (CH ENJY) LH/RH",
+        "mrp":  461,
+        "md price":  242.117,
+        "td price":  254.288
+    },
+    {
+        "part number":  "GS0701-200",
+        "product code":  "4264",
+        "product name":  "Gas Spring Suitable for (Skda OCTAVEA) LH/RHH122:H1H125:H134",
+        "mrp":  450,
+        "md price":  236.34,
+        "td price":  248.22
+    },
+    {
+        "part number":  "GS0704-200",
+        "product code":  "4284",
+        "product name":  "Gas Spring Suitable for (Skda SUPR B) LH/RH",
+        "mrp":  717,
+        "md price":  376.568,
+        "td price":  395.497
+    },
+    {
+        "part number":  "GS0704-100",
+        "product code":  "4266",
+        "product name":  "Gas Spring Suitable for (Skda SUPRB BONNET) LH/RH",
+        "mrp":  798,
+        "md price":  419.11,
+        "td price":  440.177
+    },
+    {
+        "part number":  "GS0305-200",
+        "product code":  "4252",
+        "product name":  "Gas Spring Suitable for (HM JAZ) LH/RH",
+        "mrp":  390,
+        "md price":  204.828,
+        "td price":  215.124
+    },
+    {
+        "part number":  "GS0307-200",
+        "product code":  "4254",
+        "product name":  "Gas Spring Suitable for (HM MOBELIO TAIL) LH/RH",
+        "mrp":  491,
+        "md price":  257.873,
+        "td price":  270.836
+    },
+    {
+        "part number":  "GS0309-200",
+        "product code":  "4255",
+        "product name":  "Gas Spring Suitable for (HM B R V TAIL) LH/RH",
+        "mrp":  512,
+        "md price":  268.902,
+        "td price":  282.419
+    },
+    {
+        "part number":  "GS0317-200",
+        "product code":  "4253",
+        "product name":  "Gas Spring Suitable for (HM W R V) LH/RH",
+        "mrp":  409,
+        "md price":  214.807,
+        "td price":  225.604
+    },
+    {
+        "part number":  "GS0369-200",
+        "product code":  "2112",
+        "product name":  "Gas Spring suitable for (HM Breo) L/R",
+        "mrp":  482,
+        "md price":  253.146,
+        "td price":  265.871
+    },
+    {
+        "part number":  "GS1601-100",
+        "product code":  "4281",
+        "product name":  "Gas Spring Suitable for (Aodi A FOUR BONNET) LH/RH",
+        "mrp":  1227,
+        "md price":  644.42,
+        "td price":  676.813
+    },
+    {
+        "part number":  "GS1603-100",
+        "product code":  "4282",
+        "product name":  "Gas Spring Suitable for (Aodi AD Q SEVEN BONNET (OEM Part No. 1409100068)) LH/RH",
+        "mrp":  1535,
+        "md price":  806.182,
+        "td price":  846.706
+    },
+    {
+        "part number":  "GS1602-100",
+        "product code":  "4283",
+        "product name":  "Gas Spring Suitable for (Aodi AD A SIX BONNET(OEM Part No. B5123 7008 745 \u0026 3B0823239A) LH/RH",
+        "mrp":  1513,
+        "md price":  794.628,
+        "td price":  834.571
+    },
+    {
+        "part number":  "GS1701-100",
+        "product code":  "4277",
+        "product name":  "Gas Spring Suitable for (BW B+G321:H330W X1 (E84) BONNET(OEM Part No. 41612990344)) LH/RH",
+        "mrp":  1637,
+        "md price":  859.752,
+        "td price":  902.969
+    },
+    {
+        "part number":  "GS1701-200",
+        "product code":  "4278",
+        "product name":  "Gas Spring Suitable for (BW BW X1 TAIL GATE (E84)(OEM Part No. 51242990136)) LH/RH",
+        "mrp":  1841,
+        "md price":  966.893,
+        "td price":  1015.496
+    },
+    {
+        "part number":  "GS1702-100",
+        "product code":  "4279",
+        "product name":  "Gas Spring Suitable for (BW BW 320D (E90) BONNET(OEM Part No. 51237060550)) LH/RH",
+        "mrp":  1718,
+        "md price":  902.294,
+        "td price":  947.649
+    },
+    {
+        "part number":  "GS1703-100",
+        "product code":  "4280",
+        "product name":  "Gas Spring Suitable for (BW BW 520D (E60) BONNET(OEM Part No. B5123 7008 745)) LH/RH",
+        "mrp":  1718,
+        "md price":  902.294,
+        "td price":  947.649
+    },
+    {
+        "part number":  "GS1801-100",
+        "product code":  "4272",
+        "product name":  "Gas Spring Suitable for (MB C-CLSS W (204) BONNET(OEM Part No. 204 980 00 64 A)) LH/RH",
+        "mrp":  1535,
+        "md price":  806.182,
+        "td price":  846.706
+    },
+    {
+        "part number":  "GS1802-100",
+        "product code":  "4273",
+        "product name":  "Gas Spring Suitable for (MB C-CLSS (W205) BONNET(OEM Part No.204 980 14 64 A)) LH/RH",
+        "mrp":  1535,
+        "md price":  806.182,
+        "td price":  846.706
+    },
+    {
+        "part number":  "GS1803-100",
+        "product code":  "4274",
+        "product name":  "Gas Spring Suitable for (MB E-CLSS (W212) BONNET(OEM Part No.207 980 12 64)) LH/RH",
+        "mrp":  1227,
+        "md price":  644.42,
+        "td price":  676.813
+    },
+    {
+        "part number":  "GS1804-200",
+        "product code":  "4275",
+        "product name":  "Gas Spring Suitable for (MB GLE SUV (W164) TAIL GATE(OEM Part No. 164 740 01 45 A)) LH/RH",
+        "mrp":  1483,
+        "md price":  778.872,
+        "td price":  818.023
+    },
+    {
+        "part number":  "GS1804-100",
+        "product code":  "4276",
+        "product name":  "Gas Spring Suitable for (MB GLE SUV (W164) BONNET(OEM Part No164 880 00 29 A)) LH/RH",
+        "mrp":  1483,
+        "md price":  778.872,
+        "td price":  818.023
+    }
+]

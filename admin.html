@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f7fb">
+  <title>Admin — Party Details</title>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <style>
+    :root {
+      font-family: Inter, "Segoe UI", Arial, sans-serif;
+      color: #172033;
+      background: #f5f7fb;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      min-width: 320px;
+      min-height: 100vh;
+      margin: 0;
+      padding: 48px 20px;
+      background: radial-gradient(ellipse at 12% 0%, #e8efff 0, transparent 38%), #f5f7fb;
+    }
+
+    main {
+      width: min(100%, 440px);
+      margin: 0 auto;
+      padding: 34px;
+      border: 1px solid #e6eaf2;
+      border-radius: 18px;
+      background: #fff;
+      box-shadow: 0 16px 48px rgb(23 32 51 / 8%);
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: #5269c9;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    h1 { margin: 0; font-size: 28px; letter-spacing: -.03em; }
+    p { color: #667085; line-height: 1.5; }
+    label { display: block; margin: 18px 0 7px; color: #344054; font-size: 13px; font-weight: 650; }
+
+    input {
+      width: 100%;
+      min-height: 45px;
+      border: 1px solid #d6dce8;
+      border-radius: 9px;
+      padding: 10px 12px;
+      font: inherit;
+    }
+
+    input:focus { border-color: #6679d8; outline: 3px solid rgb(102 121 216 / 14%); }
+
+    button {
+      width: 100%;
+      min-height: 44px;
+      margin-top: 20px;
+      border: 0;
+      border-radius: 9px;
+      padding: 0 16px;
+      color: #fff;
+      background: #4f62c6;
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    button:hover:not(:disabled) { background: #4052b4; }
+    button:disabled { background: #b7bfdc; cursor: not-allowed; }
+    .secondary { color: #344054; background: #f0f2f7; }
+    .secondary:hover:not(:disabled) { background: #e4e8f0; }
+    .status { min-height: 21px; margin: 14px 0 0; font-size: 13px; }
+    .error { color: #b42318; }
+    .success { color: #067647; }
+    [hidden] { display: none !important; }
+
+    @media (max-width: 520px) {
+      body { padding: 20px 12px; }
+      main { padding: 26px 20px; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Private access</p>
+    <h1>Admin panel</h1>
+    <p>Sign in to download submitted party and product orders.</p>
+
+    <form id="loginForm">
+      <label for="username">Username</label>
+      <input id="username" name="username" autocomplete="username" required>
+      <label for="password">Password</label>
+      <input id="password" name="password" type="password" autocomplete="current-password" required>
+      <button id="loginButton" type="submit">Sign in</button>
+    </form>
+
+    <section id="downloadPanel" hidden>
+      <p id="submissionCount">You are signed in.</p>
+      <button id="downloadButton" type="button">Download Excel</button>
+      <button id="logoutButton" class="secondary" type="button">Sign out</button>
+    </section>
+
+    <p id="statusMessage" class="status" role="status" aria-live="polite"></p>
+  </main>
+
+  <script>
+    const loginForm = document.getElementById("loginForm");
+    const loginButton = document.getElementById("loginButton");
+    const downloadPanel = document.getElementById("downloadPanel");
+    const submissionCount = document.getElementById("submissionCount");
+    const statusMessage = document.getElementById("statusMessage");
+    function setStatus(message, kind) {
+      statusMessage.textContent = message;
+      statusMessage.className = `status${kind ? ` ${kind}` : ""}`;
+    }
+
+    async function getSubmissions() {
+      const response = await fetch("/api/admin/submissions", { cache: "no-store" });
+      if (!response.ok) throw new Error("Please sign in to continue.");
+      return response.json();
+    }
+
+    function showAdminPanel(submissions) {
+      loginForm.hidden = true;
+      downloadPanel.hidden = false;
+      const productCount = submissions.reduce((total, submission) =>
+        total + (Array.isArray(submission.products) ? submission.products.length : 0), 0);
+      submissionCount.textContent = `${submissions.length} order${submissions.length === 1 ? "" : "s"} · ${productCount} product line${productCount === 1 ? "" : "s"}.`;
+      setStatus("Admin access granted.", "success");
+    }
+
+    function flattenSubmissions(submissions) {
+      return submissions.flatMap(submission => {
+        const party = {
+          "Party Code": submission["party code"] || "",
+          "Party Name": submission["party name"] || "",
+          "Party Add1": submission["party add1"] || "",
+          "Party Add 2": submission["party add 2"] || "",
+          City: submission.city || "",
+          State: submission.state || "",
+          Pin: submission.pin || "",
+          "State 1": submission["state 1"] || "",
+          Status: submission.status || "",
+          "MD/TD": submission["md/td"] || ""
+        };
+        const products = Array.isArray(submission.products) ? submission.products : [];
+        if (!products.length) {
+          return [{ ...party, "Submitted At": submission["submitted at"] || "" }];
+        }
+
+        return products.map(product => ({
+          ...party,
+          "Part Number": product["part number"] || "",
+          "Product Code": product["product code"] || "",
+          "Product Name": product["product name"] || "",
+          MRP: product.mrp ?? "",
+          "Price Type": product["price type"] || "",
+          Price: product.price ?? "",
+          Quantity: product.quantity ?? "",
+          "Submitted At": submission["submitted at"] || ""
+        }));
+      });
+    }
+
+    loginForm.addEventListener("submit", async event => {
+      event.preventDefault();
+      loginButton.disabled = true;
+      setStatus("Signing in…");
+
+      try {
+        const response = await fetch("/api/admin/login", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            username: document.getElementById("username").value,
+            password: document.getElementById("password").value
+          })
+        });
+        const result = await response.json();
+        if (!response.ok) throw new Error(result.error || "Sign in failed.");
+
+        document.getElementById("password").value = "";
+        showAdminPanel(await getSubmissions());
+      } catch (error) {
+        setStatus(error instanceof Error ? error.message : "Sign in failed.", "error");
+      } finally {
+        loginButton.disabled = false;
+      }
+    });
+
+    document.getElementById("downloadButton").addEventListener("click", async event => {
+      const button = event.currentTarget;
+      button.disabled = true;
+      setStatus("Preparing Excel file…");
+
+      try {
+        const submissions = await getSubmissions();
+        if (!window.XLSX) throw new Error("Excel export is unavailable. Check your internet connection and reload.");
+        if (!submissions.length) throw new Error("There are no submissions to download yet.");
+
+        const rows = flattenSubmissions(submissions);
+        const worksheet = XLSX.utils.json_to_sheet(rows);
+        const workbook = XLSX.utils.book_new();
+        XLSX.utils.book_append_sheet(workbook, worksheet, "Product Orders");
+        const date = new Date().toISOString().slice(0, 10);
+        XLSX.writeFile(workbook, `party-product-orders-${date}.xlsx`);
+        const productCount = submissions.reduce((total, submission) =>
+          total + (Array.isArray(submission.products) ? submission.products.length : 0), 0);
+        submissionCount.textContent = `${submissions.length} order${submissions.length === 1 ? "" : "s"} · ${productCount} product line${productCount === 1 ? "" : "s"}.`;
+        setStatus("Excel file downloaded.", "success");
+      } catch (error) {
+        setStatus(error instanceof Error ? error.message : "Could not download submissions.", "error");
+        if (error instanceof Error && error.message.includes("sign in")) {
+          loginForm.hidden = false;
+          downloadPanel.hidden = true;
+        }
+      } finally {
+        button.disabled = false;
+      }
+    });
+
+    document.getElementById("logoutButton").addEventListener("click", async () => {
+      try {
+        await fetch("/api/admin/logout", { method: "POST" });
+      } finally {
+        downloadPanel.hidden = true;
+        loginForm.hidden = false;
+        loginForm.reset();
+        setStatus("Signed out.");
+      }
+    });
+
+    fetch("/api/admin/session", { cache: "no-store" })
+      .then(async response => {
+        const session = await response.json();
+        if (!session.authenticated) {
+          setStatus("Sign in with your admin account.");
+          return;
+        }
+        showAdminPanel(await getSubmissions());
+      })
+      .catch(() => setStatus("Could not check the admin session. Reload the page."));
+  </script>
+</body>
+</html>
