@@ -348,7 +348,7 @@
 
       <section aria-labelledby="productsTitle">
         <h2 id="productsTitle" class="section-title">Products</h2>
-        <p class="section-help">Open the dropdown to browse products, or search by part number or product name. The price follows the selected party's MD/TD type.</p>
+        <p class="section-help">Browse up to 40 products in the dropdown, or search by part number or product name to find others. The price follows the selected party's MD/TD type.</p>
         <div id="productRows"></div>
         <button id="addProductButton" class="add-product" type="button" disabled>Add another product</button>
       </section>
@@ -563,6 +563,7 @@
       row.append(heading, searchWrap, detailGrid);
       productRows.append(row);
       refreshProductRows();
+      search.scrollIntoView({ block: "center" });
       search.focus();
     }
 
